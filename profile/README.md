@@ -2,7 +2,9 @@
 
 # SOPHISTEC GLOBAL
 
-### Empowering Growth through Strategy, Technology, Education, Creativity & Community
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=0B5FFF&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Empowering+Growth+through+Strategy%2C+Technology%2C+Education%2C+Creativity+%26+Community;From+Market+Entry+to+Digital+Products%2C+Creative+Experiences+%26+Sustainable+Growth" alt="Sophistec Global animated introduction">
+
+<sub>Strategy · Software · SaaS · Creative Technology · Education · Community</sub>
 
 <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Explore-Sophistec%20Global-0B5FFF?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Explore Sophistec Global">
@@ -14,8 +16,6 @@
   <img src="https://img.shields.io/badge/Explore-Our%20Ecosystem-00A99D?style=for-the-badge&amp;logo=hubspot&amp;logoColor=white" alt="Explore Our Ecosystem">
 </a>
 
-**Strategy · Software · SaaS · Creative Technology · Education · Community**
-
 </div>
 
 ---
@@ -26,9 +26,7 @@
 
 We help founders, organizations, and communities turn ideas into practical solutions: from digital products and integrated operational systems to meaningful stories, learning platforms, and collaborative programs.
 
-```text
-Strategy → Design → Build → Launch → Grow
-```
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;size=18&amp;pause=850&amp;color=00A99D&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Strategy+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Launch+%E2%86%92+Grow" alt="Strategy to growth workflow">
 
 ## Our Companies & Brands
 
@@ -85,8 +83,6 @@ Enter a Market → Establish → Build → Launch → Create → Grow
 - **Launch & Grow**: Sophistec Growth Hub supports brand strategy, marketing, social media, KOL campaigns, paid advertising, public relations, and community growth.
 
 ## How We Work
-
-> We make ambitious ideas usable.
 
 We combine strategic thinking with hands-on execution. Every project starts from a real problem, moves through clear product thinking and design, and ends with a solution that can create practical value.
 
