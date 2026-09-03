@@ -56,7 +56,7 @@ We help founders, organizations, and communities turn ideas into practical solut
 | **Sophistec Omnichannel** | Unified commerce operations with marketplace, logistics, payment, and sales-channel integration. | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Sophistec Smart Rack** | Smart operational and rack-management solutions. | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Sophistec Service Hub** | Centralized support and service-management solutions. | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| **Sophistec Key Trust** | Hardware-rooted device identity and security using **Physical Unclonable Function (PUF)** technology and **FIDO2** authentication—designed to secure every identity at its root. | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| **Sophistec Key Trust** | Hardware-rooted device identity and security using **Physical Unclonable Function (PUF)** technology and **FIDO2** authentication, designed to secure every identity at its root. | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Sophistec Lumora** | A modern photobooth platform for on-site photo experiences, roaming or mingle photography, branded event frames, instant sharing, and virtual greetings. | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Sophistec Career Hub** | Career and talent-development platform. | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Sophistec Edu Pro** | Professional education and learning solutions. | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
@@ -100,6 +100,12 @@ We combine strategic thinking with hands-on execution. Every project starts from
 
 <div align="center">
 
+<a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Website-0B5FFF?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Sophistec Global Website">
+</a>
+<a href="mailto:management@sophistec.global">
+  <img src="https://img.shields.io/badge/Email-management%40sophistec.global-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Sophistec Global">
+</a>
 <a href="https://api.whatsapp.com/send/?phone=886971688450&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
@@ -121,12 +127,6 @@ We combine strategic thinking with hands-on execution. Every project starts from
 <a href="https://x.com/SophistecGlobal" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow Sophistec on X">
 </a>
-
-<br><br>
-
-<a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">Website</a>
-&nbsp;·&nbsp;
-<a href="mailto:management@sophistec.global">Email</a>
 
 <br><br>
 
