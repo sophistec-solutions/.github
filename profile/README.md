@@ -38,10 +38,10 @@ Strategy → Design → Build → Launch → Grow
 | **Sophistec Dev House** | Custom software development, mobile apps, API integration, AI, automation, cloud, data, UI/UX, and tech teams. | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Sophistec Academy** | Learning, executive training, founder education, and knowledge-sharing programs. | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Sophistec Studio** | Creative technology, photography, videography, event documentation, and brand experiences. | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| **Sophistec Growth Hub** | Strategic marketing, public relations, social media, brand growth, and community engagement. | <a href="https://growthhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Founder Scape** | A platform and podcast exploring business, innovation, leadership, and impact. | <a href="https://founderscape.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **DD Walk** | A lifestyle and discovery-focused platform under the Sophistec ecosystem. | <a href="https://ddwalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Chill Mama** | A community-focused lifestyle brand. | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| **Top Admit** | An education and admissions-focused platform. | <a href="https://www.topadmit.com/" target="_blank" rel="noopener noreferrer">Explore</a> |
 
 ## Our Digital Products
 
@@ -58,27 +58,26 @@ Strategy → Design → Build → Launch → Grow
 | **Sophistec Service Hub** | Centralized support and service-management solutions. | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Sophistec Key Trust** | Hardware-rooted device identity and security using **Physical Unclonable Function (PUF)** technology and **FIDO2** authentication—designed to secure every identity at its root. | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Sophistec Lumora** | A modern photobooth platform for on-site photo experiences, roaming or mingle photography, branded event frames, instant sharing, and virtual greetings. | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| **Sophistec Career Hub** | Career and talent-development platform. | <a href="https://bio.sophistec.global/bio-sophistec-career-hub/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| **Sophistec Edu Pro** | Professional education and learning solutions. | <a href="https://bio.sophistec.global/bio-sophistec-edu-pro/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| **Sophistec Edu Plus** | Accessible education and learning solutions for wider communities. | <a href="https://bio.sophistec.global/bio-sophistec-edu-plus/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| **Sophistec Career Hub** | Career and talent-development platform. | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| **Sophistec Edu Pro** | Professional education and learning solutions. | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| **Sophistec Edu Plus** | Accessible education and learning solutions for wider communities. | <a href="https://eduplus.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 
 ## Communities
 
 | Community | Purpose | Explore |
 | --- | --- | --- |
-| **Sophistec Wander Lens** | A community for people who explore, document, and experience the world through visual storytelling. | <a href="https://bio.sophistec.global/bio-sophistec-wander-lens/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| **Sophistec Photo Walk** | A photography community that creates opportunities to learn, connect, and explore together. | <a href="https://bio.sophistec.global/bio-sophistec-photo-walk/" target="_blank" rel="noopener noreferrer">Explore</a> |
-| **NASA Space Apps Challenge Indonesia** | A global innovation community and local program connecting people who use open data to solve real-world challenges. | <a href="https://www.spaceappschallenge.org/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| **Sophistec Wander Lens** | A community for people who explore, document, and experience the world through visual storytelling. | <a href="https://wanderlens.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| **Sophistec Photo Walk** | A photography community that creates opportunities to learn, connect, and explore together. | <a href="https://photowalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| **NASA Space Apps Challenge Indonesia** | A global innovation community and local program connecting people who use open data to solve real-world challenges. | <a href="https://nasaspaceappsindonesia.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 
-## What We Can Help Build
+## One Ecosystem, End-to-End Support
 
-- Business systems, SaaS products, and digital platforms
-- Web, mobile, cloud, API, and marketplace integrations
-- Healthcare, education, commerce, service, and operational technology
-- Device identity, PUF-based security, FIDO2 authentication, and trusted digital infrastructure
-- AI, automation, data, analytics, and digital transformation
-- Brand strategy, creative production, photography, video, and photobooth experiences
-- Founder education, community programs, and cross-border collaboration
+Sophistec brings strategy, technology, creativity, growth, and community together in one connected ecosystem.
+
+Whether you are entering Indonesia, establishing a local team, building a digital product, launching a brand, creating content, or growing an audience, our companies and brands can support different stages of your journey.
+
+```text
+Enter a Market → Establish → Build → Launch → Tell the Story → Grow
 
 ## How We Work
 
