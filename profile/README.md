@@ -96,13 +96,36 @@ We combine strategic thinking with hands-on execution. Every project starts from
 
 <div align="center">
 
-<a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a>
+<a href="https://bio.sophistec.global/go/MTMzNA==" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+<a href="https://bio.sophistec.global/go/MTMzNQ==" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://bio.sophistec.global/go/MTMzNg==" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://bio.sophistec.global/go/MTMzNw==" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://bio.sophistec.global/go/MTMzOA==" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+<a href="https://bio.sophistec.global/go/MTMzOQ==" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+</a>
+
+<br><br>
+
+<a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">Website</a>
 &nbsp;·&nbsp;
-<a href="https://bio.sophistec.global/bio-sophistec-global/" target="_blank" rel="noopener noreferrer">Explore</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/sophistec-solutions" target="_blank" rel="noopener noreferrer">Explore</a>
-&nbsp;·&nbsp;
-<a href="mailto:management@sophistec.global" target="_blank" rel="noopener noreferrer">Explore</a>
+<a href="mailto:management@sophistec.global">management@sophistec.global</a>
+
+<br><br>
+
+**Build. Scale. Transform.**
+
+</div>
 
 <br><br>
 
