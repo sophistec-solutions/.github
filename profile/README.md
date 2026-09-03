@@ -78,11 +78,11 @@ Whether you are entering the Indonesian market, establishing a local presence, b
 
 Enter a Market → Establish → Build → Launch → Create → Grow
 
-- **Enter & Establish** — Sophistec Global supports Indonesia market entry, company incorporation, Employer of Record (EOR), local hiring, investment facilitation, and cross-border expansion.
-- **Build** — Sophistec Dev House develops custom software, SaaS platforms, websites, mobile apps, API integrations, AI solutions, automation, and cloud systems.
-- **Learn & Connect** — Sophistec Academy, Founder Scape, and our communities create opportunities for education, collaboration, knowledge-sharing, and founder growth.
-- **Create Experiences** — Sophistec Studio produces photography, videography, podcasts, event documentation, creative content, and photobooth experiences through Sophistec Lumora.
-- **Launch & Grow** — Sophistec Growth Hub supports brand strategy, marketing, social media, KOL campaigns, paid advertising, public relations, and community growth.
+- **Enter & Establish**: Sophistec Global supports Indonesia market entry, company incorporation, Employer of Record (EOR), local hiring, investment facilitation, and cross-border expansion.
+- **Build & Scale**: Sophistec Dev House develops custom software, SaaS platforms, websites, mobile apps, API integrations, AI solutions, automation, and cloud systems.
+- **Learn & Connect**: Sophistec Academy, Founder Scape, and our communities create opportunities for education, collaboration, knowledge-sharing, and founder growth.
+- **Innovate & Inspire**: Sophistec Studio produces photography, videography, podcasts, event documentation, creative content, and photobooth experiences through Sophistec Lumora.
+- **Launch & Grow**: Sophistec Growth Hub supports brand strategy, marketing, social media, KOL campaigns, paid advertising, public relations, and community growth.
 
 ## How We Work
 
@@ -90,11 +90,11 @@ Enter a Market → Establish → Build → Launch → Create → Grow
 
 We combine strategic thinking with hands-on execution. Every project starts from a real problem, moves through clear product thinking and design, and ends with a solution that can create practical value.
 
-- **Impact first** — build for meaningful, measurable outcomes.
-- **Human by design** — technology should feel useful and accessible.
-- **Ownership in the details** — care deeply about quality, clarity, and follow-through.
-- **Built to evolve** — launch quickly, learn continuously, and improve deliberately.
-- **Stronger together** — create with clients, partners, developers, creators, and communities.
+- **Impact first**: build for meaningful, measurable outcomes.
+- **Human by design**: technology should feel useful and accessible.
+- **Ownership in the details**: care deeply about quality, clarity, and follow-through.
+- **Built to evolve**: launch quickly, learn continuously, and improve deliberately.
+- **Stronger together**: create with clients, partners, developers, creators, and communities.
 
 ## Connect with Us
 
