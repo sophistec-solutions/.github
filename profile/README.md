@@ -34,7 +34,7 @@ Strategy → Design → Build → Launch → Grow
 
 | Brand | What It Does | Explore |
 | --- | --- | --- |
-| **Sophistec Global** | Business strategy, digital advisory, SaaS solutions, executive training, and strategic support. | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
+| **Sophistec Global** | Indonesia market-entry consulting, company incorporation, Employer of Record (EOR), local hiring support, investment facilitation, and cross-border business expansion. | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Sophistec Dev House** | Custom software development, mobile apps, API integration, AI, automation, cloud, data, UI/UX, and tech teams. | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Sophistec Academy** | Learning, executive training, founder education, and knowledge-sharing programs. | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Sophistec Studio** | Creative technology, photography, videography, event documentation, and brand experiences. | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
@@ -72,12 +72,17 @@ Strategy → Design → Build → Launch → Grow
 
 ## One Ecosystem, End-to-End Support
 
-Sophistec brings strategy, technology, creativity, growth, and community together in one connected ecosystem.
+Sophistec brings business strategy, technology, creativity, growth, education, and community together in one connected ecosystem.
 
-Whether you are entering Indonesia, establishing a local team, building a digital product, launching a brand, creating content, or growing an audience, our companies and brands can support different stages of your journey.
+Whether you are entering the Indonesian market, establishing a local presence, building a digital product, launching a brand, producing content, or growing your audience, our companies and brands can support every stage of the journey.
 
-```text
-Enter a Market → Establish → Build → Launch → Tell the Story → Grow
+Enter a Market → Establish → Build → Launch → Create → Grow
+
+- **Enter & Establish** — Sophistec Global supports Indonesia market entry, company incorporation, Employer of Record (EOR), local hiring, investment facilitation, and cross-border expansion.
+- **Build** — Sophistec Dev House develops custom software, SaaS platforms, websites, mobile apps, API integrations, AI solutions, automation, and cloud systems.
+- **Learn & Connect** — Sophistec Academy, Founder Scape, and our communities create opportunities for education, collaboration, knowledge-sharing, and founder growth.
+- **Create Experiences** — Sophistec Studio produces photography, videography, podcasts, event documentation, creative content, and photobooth experiences through Sophistec Lumora.
+- **Launch & Grow** — Sophistec Growth Hub supports brand strategy, marketing, social media, KOL campaigns, paid advertising, public relations, and community growth.
 
 ## How We Work
 
