@@ -20,7 +20,7 @@
 
 ---
 
-## We build what helps people and businesses move forward.
+## We Build What Helps People and Businesses Move Forward.
 
 **Sophistec Global** is a multi-disciplinary ecosystem that brings together business strategy, software development, SaaS products, creative media, education, and communities.
 
@@ -30,9 +30,9 @@ We help founders, organizations, and communities turn ideas into practical solut
 Strategy → Design → Build → Launch → Grow
 ```
 
-## Our companies & brands
+## Our Companies & Brands
 
-| Brand | What it does | Explore |
+| Brand | What It Does | Explore |
 | --- | --- | --- |
 | **Sophistec Global** | Business strategy, digital advisory, SaaS solutions, executive training, and strategic support. | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Sophistec Dev House** | Custom software development, mobile apps, API integration, AI, automation, cloud, data, UI/UX, and tech teams. | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">Explore</a> |
@@ -43,7 +43,7 @@ Strategy → Design → Build → Launch → Grow
 | **Chill Mama** | A community-focused lifestyle brand. | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **Top Admit** | An education and admissions-focused platform. | <a href="https://www.topadmit.com/" target="_blank" rel="noopener noreferrer">Explore</a> |
 
-## Our digital products
+## Our Digital Products
 
 | Product | Focus | Explore |
 | --- | --- | --- |
@@ -70,7 +70,7 @@ Strategy → Design → Build → Launch → Grow
 | **Sophistec Photo Walk** | A photography community that creates opportunities to learn, connect, and explore together. | <a href="https://bio.sophistec.global/bio-sophistec-photo-walk/" target="_blank" rel="noopener noreferrer">Explore</a> |
 | **NASA Space Apps Challenge Indonesia** | A global innovation community and local program connecting people who use open data to solve real-world challenges. | <a href="https://www.spaceappschallenge.org/" target="_blank" rel="noopener noreferrer">Explore</a> |
 
-## What we can help build
+## What We Can Help Build
 
 - Business systems, SaaS products, and digital platforms
 - Web, mobile, cloud, API, and marketplace integrations
@@ -80,7 +80,7 @@ Strategy → Design → Build → Launch → Grow
 - Brand strategy, creative production, photography, video, and photobooth experiences
 - Founder education, community programs, and cross-border collaboration
 
-## How we work
+## How We Work
 
 > We make ambitious ideas usable.
 
@@ -92,7 +92,7 @@ We combine strategic thinking with hands-on execution. Every project starts from
 - **Built to evolve** — launch quickly, learn continuously, and improve deliberately.
 - **Stronger together** — create with clients, partners, developers, creators, and communities.
 
-## Connect with us
+## Connect with Us
 
 <div align="center">
 
@@ -106,6 +106,6 @@ We combine strategic thinking with hands-on execution. Every project starts from
 
 <br><br>
 
-**Build. Scale. Transform.**
+**Empowering Business Success**
 
 </div>
