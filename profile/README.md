@@ -5,7 +5,7 @@
 ### Empowering Growth through Strategy, Technology, Education, Creativity & Community
 
 <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Explore-Sophistec%20Global-0B5FFF?style=for-the-badge&amp;logo=globe&amp;logoColor=white" alt="Explore Sophistec Global">
+  <img src="https://img.shields.io/badge/Explore-Sophistec%20Global-0B5FFF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore Sophistec Global">
 </a>
 <a href="https://github.com/sophistec-solutions" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore GitHub">
