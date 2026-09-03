@@ -101,10 +101,10 @@ We combine strategic thinking with hands-on execution. Every project starts from
 <div align="center">
 
 <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Website-0B5FFF?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Sophistec Global Website">
+  <img src="https://img.shields.io/badge/Website-0B5FFF?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Website">
 </a>
 <a href="mailto:management@sophistec.global">
-  <img src="https://img.shields.io/badge/Email-management%40sophistec.global-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Sophistec Global">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
 </a>
 <a href="https://api.whatsapp.com/send/?phone=886971688450&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
