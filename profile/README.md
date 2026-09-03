@@ -130,6 +130,4 @@ We combine strategic thinking with hands-on execution. Every project starts from
 
 <br><br>
 
-**Empowering Business Success**
-
 </div>
