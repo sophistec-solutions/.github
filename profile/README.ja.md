@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="../assets/logos/sophistec_global.png" width="720" alt="Sophistec Global logo">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/sophistec_global.png" width="720" alt="Sophistec Global logo">
 </p>
 
 <p align="center">
@@ -51,43 +51,43 @@
 
 | ロゴ | ブランド | 主な提供内容 | 詳細 |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global ロゴ"> | **Sophistec Global** | インドネシア市場参入コンサルティング、会社設立、Employer of Record（EOR）、現地採用支援、投資支援、越境ビジネス展開。 | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_dev_house_01.png" width="52" alt="Sophistec Dev House ロゴ"> | **Sophistec Dev House** | カスタムソフトウェア開発、モバイルアプリ、API 統合、AI、自動化、クラウド、データ、UI/UX、技術チーム。 | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_academy_01.png" width="52" alt="Sophistec Academy ロゴ"> | **Sophistec Academy** | 学習、エグゼクティブ研修、創業者向け教育、ナレッジ共有プログラム。 | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_studio_01.png" width="52" alt="Sophistec Studio ロゴ"> | **Sophistec Studio** | クリエイティブテクノロジー、写真、映像制作、イベント記録、ブランド体験。 | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_growth_hub_01.png" width="52" alt="Sophistec Growth Hub ロゴ"> | **Sophistec Growth Hub** | 戦略的マーケティング、広報、ソーシャルメディア、ブランド成長、コミュニティエンゲージメント。 | <a href="https://growthhub.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_founder_scape_01.png" width="52" alt="Founder Scape ロゴ"> | **Founder Scape** | ビジネス、イノベーション、リーダーシップ、インパクトを探究するプラットフォーム兼ポッドキャスト。 | <a href="https://founderscape.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_dd_walk_01.png" width="52" alt="DD Walk ロゴ"> | **DD Walk** | Sophistec エコシステム内の、ライフスタイルと発見にフォーカスしたプラットフォーム。 | <a href="https://ddwalk.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_chill_mama_01.png" width="52" alt="Chill Mama ロゴ"> | **Chill Mama** | コミュニティを中心としたライフスタイルブランド。 | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global ロゴ"> | **Sophistec Global** | インドネシア市場参入コンサルティング、会社設立、Employer of Record（EOR）、現地採用支援、投資支援、越境ビジネス展開。 | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_dev_house_01.png" width="52" alt="Sophistec Dev House ロゴ"> | **Sophistec Dev House** | カスタムソフトウェア開発、モバイルアプリ、API 統合、AI、自動化、クラウド、データ、UI/UX、技術チーム。 | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_academy_01.png" width="52" alt="Sophistec Academy ロゴ"> | **Sophistec Academy** | 学習、エグゼクティブ研修、創業者向け教育、ナレッジ共有プログラム。 | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_studio_01.png" width="52" alt="Sophistec Studio ロゴ"> | **Sophistec Studio** | クリエイティブテクノロジー、写真、映像制作、イベント記録、ブランド体験。 | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_growth_hub_01.png" width="52" alt="Sophistec Growth Hub ロゴ"> | **Sophistec Growth Hub** | 戦略的マーケティング、広報、ソーシャルメディア、ブランド成長、コミュニティエンゲージメント。 | <a href="https://growthhub.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_founder_scape_01.png" width="52" alt="Founder Scape ロゴ"> | **Founder Scape** | ビジネス、イノベーション、リーダーシップ、インパクトを探究するプラットフォーム兼ポッドキャスト。 | <a href="https://founderscape.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_dd_walk_01.png" width="52" alt="DD Walk ロゴ"> | **DD Walk** | Sophistec エコシステム内の、ライフスタイルと発見にフォーカスしたプラットフォーム。 | <a href="https://ddwalk.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_chill_mama_01.png" width="52" alt="Chill Mama ロゴ"> | **Chill Mama** | コミュニティを中心としたライフスタイルブランド。 | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
 
 ## デジタルプロダクト
 
 | ロゴ | プロダクト | フォーカス | 詳細 |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions ロゴ"> | **Sophistec Optima Solutions** | 組織向けの業務最適化とデジタルソリューション。 | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Aivora logo"> | **Sophistec Aivora** | インテリジェント支援、ワークフローのオーケストレーション、業務自動化のための AI エージェントプラットフォーム。 | <a href="https://aivora.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft ロゴ"> | **Sophistec Data Craft** | データ指向のソリューション、アナリティクス、デジタルインテリジェンス。 | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C ロゴ"> | **Sophistec C4C** | Sophistec エコシステム内の専用プラットフォーム。 | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel ロゴ"> | **Sophistec Omnichannel** | マーケットプレイス、物流、決済、販売チャネルを統合する統一コマース運用。 | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft ロゴ"> | **Sophistec Market Craft** | デジタル成長、マーケティング、市場接点に向けたソリューション。 | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Vendix logo"> | **Sophistec Vendix** | 在庫、決済、テレメトリ、運用管理に対応するコネクテッド自動販売機プラットフォーム。 | <a href="https://vendix.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack ロゴ"> | **Sophistec Smart Rack** | スマートな業務運用およびラック管理ソリューション。 | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub ロゴ"> | **Sophistec Service Hub** | 集中型のサポートおよびサービス管理ソリューション。 | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore ロゴ"> | **Sophistec Medicore** | 病院、クリニック、薬局、検査室、放射線部門をつなぐ医療管理。 | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon ロゴ"> | **Sophistec Denticon** | 歯科診療所および口腔医療業務向けのデジタルソリューション。 | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust ロゴ"> | **Sophistec Key Trust** | **Physical Unclonable Function（PUF）** 技術と **FIDO2** 認証を用いたハードウェアルートのデバイスID・セキュリティにより、IDを根本から保護します。 | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora ロゴ"> | **Sophistec Lumora** | 会場での撮影体験、ローミング／ミングル撮影、ブランド入りイベントフレーム、即時共有、バーチャルメッセージに対応するモダンなフォトブースプラットフォーム。 | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub ロゴ"> | **Sophistec Career Hub** | キャリアおよび人材育成プラットフォーム。 | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_edu_pro_01.png" width="52" alt="Sophistec Edu Pro ロゴ"> | **Sophistec Edu Pro** | プロフェッショナル向け教育・学習ソリューション。 | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_edu_plus_01.png" width="52" alt="Sophistec Edu Plus ロゴ"> | **Sophistec Edu Plus** | より幅広いコミュニティに向けた、アクセスしやすい教育・学習ソリューション。 | <a href="https://eduplus.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions ロゴ"> | **Sophistec Optima Solutions** | 組織向けの業務最適化とデジタルソリューション。 | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Aivora logo"> | **Sophistec Aivora** | インテリジェント支援、ワークフローのオーケストレーション、業務自動化のための AI エージェントプラットフォーム。 | <a href="https://aivora.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft ロゴ"> | **Sophistec Data Craft** | データ指向のソリューション、アナリティクス、デジタルインテリジェンス。 | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C ロゴ"> | **Sophistec C4C** | Sophistec エコシステム内の専用プラットフォーム。 | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel ロゴ"> | **Sophistec Omnichannel** | マーケットプレイス、物流、決済、販売チャネルを統合する統一コマース運用。 | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft ロゴ"> | **Sophistec Market Craft** | デジタル成長、マーケティング、市場接点に向けたソリューション。 | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Vendix logo"> | **Sophistec Vendix** | 在庫、決済、テレメトリ、運用管理に対応するコネクテッド自動販売機プラットフォーム。 | <a href="https://vendix.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack ロゴ"> | **Sophistec Smart Rack** | スマートな業務運用およびラック管理ソリューション。 | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub ロゴ"> | **Sophistec Service Hub** | 集中型のサポートおよびサービス管理ソリューション。 | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore ロゴ"> | **Sophistec Medicore** | 病院、クリニック、薬局、検査室、放射線部門をつなぐ医療管理。 | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon ロゴ"> | **Sophistec Denticon** | 歯科診療所および口腔医療業務向けのデジタルソリューション。 | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust ロゴ"> | **Sophistec Key Trust** | **Physical Unclonable Function（PUF）** 技術と **FIDO2** 認証を用いたハードウェアルートのデバイスID・セキュリティにより、IDを根本から保護します。 | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora ロゴ"> | **Sophistec Lumora** | 会場での撮影体験、ローミング／ミングル撮影、ブランド入りイベントフレーム、即時共有、バーチャルメッセージに対応するモダンなフォトブースプラットフォーム。 | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub ロゴ"> | **Sophistec Career Hub** | キャリアおよび人材育成プラットフォーム。 | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_edu_pro_01.png" width="52" alt="Sophistec Edu Pro ロゴ"> | **Sophistec Edu Pro** | プロフェッショナル向け教育・学習ソリューション。 | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_edu_plus_01.png" width="52" alt="Sophistec Edu Plus ロゴ"> | **Sophistec Edu Plus** | より幅広いコミュニティに向けた、アクセスしやすい教育・学習ソリューション。 | <a href="https://eduplus.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
 
 ## コミュニティ
 
 | ロゴ | コミュニティ | 目的 | 詳細 |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_wander_lens_01.png" width="52" alt="Sophistec Wander Lens ロゴ"> | **Sophistec Wander Lens** | ビジュアルストーリーテリングを通じて世界を探索し、記録し、体験する人々のためのコミュニティ。 | <a href="https://wanderlens.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_photo_walk_01.png" width="52" alt="Sophistec Photo Walk ロゴ"> | **Sophistec Photo Walk** | 共に学び、つながり、探索する機会を生み出す写真コミュニティ。 | <a href="https://photowalk.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global ロゴ"> | **NASA Space Apps Challenge Indonesia** | オープンデータを活用して現実の課題を解決する人々をつなぐ、グローバルなイノベーションコミュニティと地域プログラム。 | <a href="https://nasaspaceappsindonesia.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_wander_lens_01.png" width="52" alt="Sophistec Wander Lens ロゴ"> | **Sophistec Wander Lens** | ビジュアルストーリーテリングを通じて世界を探索し、記録し、体験する人々のためのコミュニティ。 | <a href="https://wanderlens.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_photo_walk_01.png" width="52" alt="Sophistec Photo Walk ロゴ"> | **Sophistec Photo Walk** | 共に学び、つながり、探索する機会を生み出す写真コミュニティ。 | <a href="https://photowalk.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global ロゴ"> | **NASA Space Apps Challenge Indonesia** | オープンデータを活用して現実の課題を解決する人々をつなぐ、グローバルなイノベーションコミュニティと地域プログラム。 | <a href="https://nasaspaceappsindonesia.sophistec.global/" target="_blank" rel="noopener noreferrer">詳しく見る</a> |
 
 ## 1つのエコシステムで、エンドツーエンドの支援
 
@@ -231,7 +231,7 @@ Sophistec のプラットフォーム方針は、ID、組織、課金、プロ�
 各プロダクトが独立して進化できる構造を目指します。
 
 <p align="center">
-<img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec 接続型プラットフォームアーキテクチャ">
+<img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec 接続型プラットフォームアーキテクチャ">
 </p>
 
 ### エンジニアリングドメインマップ
@@ -251,7 +251,7 @@ AI は単なるチャットボット機能ではなく、プロダクトや業�
 インテリジェンスレイヤーとして扱います。
 
 <p align="center">
-<img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Sophistec インテリジェンスレイヤー">
+<img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Sophistec インテリジェンスレイヤー">
 </p>
 LLM、エージェント、RAG、メモリ、ツール、MCP、API、権限、ビジネスロジックを
 連携させることで、信頼できるコンテキストを取得し、制御された現実世界の
@@ -260,13 +260,13 @@ LLM、エージェント、RAG、メモリ、ツール、MCP、API、権限、�
 ## アニメーション付きエンジニアリングワークフロー
 
 <p align="center">
-<img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="Sophistec エンジニアリングワークフロー">
+<img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-journey.svg?v=12" width="100%" alt="Sophistec エンジニアリングワークフロー">
 </p>
 
 ## プロダクト × エンジニアリング機能マップ
 
 <table width="1200" cellspacing="0" cellpadding="6">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <thead><tr><th width="336">プラットフォーム</th><th width="120">SaaS</th><th width="216">API / 統合</th><th width="144">AI / データ</th><th width="168">自動化</th><th width="216">ID / アクセス</th></tr></thead>
   <tbody>
     <tr><td><strong>Sophistec Optima Solutions</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
@@ -292,67 +292,67 @@ LLM、エージェント、RAG、メモリ、ツール、MCP、API、権限、�
 
 ## エンジニアリング標準
 
-<p align="center"><img src="../assets/svg/engineering-standards-table.svg?v=1" width="100%" alt="構築・運用・保護・進化を扱うエンジニアリング標準表"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-standards-table.svg?v=1" width="100%" alt="構築・運用・保護・進化を扱うエンジニアリング標準表"></p>
 
 ## Sophistec ビジュアルシステム
 
 <p align="center">
-  <img src="../assets/svg/hero-technology-network.svg?v=12" width="100%" alt="Sophistec テクノロジーエコシステム">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/hero-technology-network.svg?v=12" width="100%" alt="Sophistec テクノロジーエコシステム">
 </p>
 
 ### プロダクト・コンステレーション
-<p align="center"><img src="../assets/svg/product-constellation.svg?v=14" width="100%" alt="Sophistec プロダクト・コンステレーション"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-constellation.svg?v=14" width="100%" alt="Sophistec プロダクト・コンステレーション"></p>
 
 ### 越境コラボレーション
-<p align="center"><img src="../assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec 越境コラボレーション"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec 越境コラボレーション"></p>
 
 ### リクエストライフサイクル
-<p align="center"><img src="../assets/svg/request-lifecycle.svg?v=12" width="100%" alt="リクエストから本番までのライフサイクル"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/request-lifecycle.svg?v=12" width="100%" alt="リクエストから本番までのライフサイクル"></p>
 
 ### エージェント実行
-<p align="center"><img src="../assets/svg/agentic-execution-loop.svg?v=12" width="100%" alt="エージェント実行ループ"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/agentic-execution-loop.svg?v=12" width="100%" alt="エージェント実行ループ"></p>
 
 ### データからインテリジェンスへ
-<p align="center"><img src="../assets/svg/data-intelligence-lifecycle.svg?v=12" width="100%" alt="データ・インテリジェンスライフサイクル"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/data-intelligence-lifecycle.svg?v=12" width="100%" alt="データ・インテリジェンスライフサイクル"></p>
 
 ### エンジニアリング原則
-<p align="center"><img src="../assets/svg/engineering-principles.svg?v=12" width="100%" alt="エンジニアリング原則"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-principles.svg?v=12" width="100%" alt="エンジニアリング原則"></p>
 
 ### 機能体系
-<p align="center"><img src="../assets/svg/capability-system.svg?v=12" width="100%" alt="エンジニアリング機能体系"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/capability-system.svg?v=12" width="100%" alt="エンジニアリング機能体系"></p>
 
 ## プレミアム・エンジニアリングビジュアル
 
 これらの図は、Sophistec がプロダクトエンジニアリングを孤立した技術ではなく、接続されたシステムとして捉える方法をまとめたものです。
 
-<p align="center"><img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="エンジニアリングジャーニー"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-journey.svg?v=12" width="100%" alt="エンジニアリングジャーニー"></p>
 
 ### 接続型プラットフォーム
-<p align="center"><img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="接続型プラットフォームアーキテクチャ"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="接続型プラットフォームアーキテクチャ"></p>
 
 ### マイクロサービス & 分散システム
-<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="マイクロサービスアーキテクチャ"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/microservices-architecture.svg?v=12" width="100%" alt="マイクロサービスアーキテクチャ"></p>
 
 ### AIネイティブ・インテリジェンス
-<p align="center"><img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="AI インテリジェンスレイヤー"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="AI インテリジェンスレイヤー"></p>
 
 ### エンタープライズ RAG
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="エンタープライズ RAG パイプライン"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/rag-pipeline.svg?v=12" width="100%" alt="エンタープライズ RAG パイプライン"></p>
 
 ### CI/CD & 本番デリバリー
-<p align="center"><img src="../assets/svg/cicd-pipeline.svg?v=12" width="100%" alt="CI/CD パイプライン"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/cicd-pipeline.svg?v=12" width="100%" alt="CI/CD パイプライン"></p>
 
 ### エンタープライズ統合
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="統合エコシステム"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="統合エコシステム"></p>
 
 ### SaaS ID & エンタイトルメント
-<p align="center"><img src="../assets/svg/saas-identity-flow.svg?v=12" width="100%" alt="SaaS ID フロー"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/saas-identity-flow.svg?v=12" width="100%" alt="SaaS ID フロー"></p>
 
 ### 可観測性 & 信頼性
-<p align="center"><img src="../assets/svg/observability-loop.svg?v=12" width="100%" alt="可観測性ループ"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/observability-loop.svg?v=12" width="100%" alt="可観測性ループ"></p>
 
 ### セキュリティ・バイ・デザイン
-<p align="center"><img src="../assets/svg/security-by-design.svg?v=12" width="100%" alt="セキュリティ・バイ・デザイン"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/security-by-design.svg?v=12" width="100%" alt="セキュリティ・バイ・デザイン"></p>
 
 ## テクノロジー & エンジニアリング機能
 
@@ -434,13 +434,13 @@ Sophistec は、プロダクト思考、ソフトウェアエンジニアリン�
 一般的なインテリジェントアプリケーションでは、モデルをプライベートな
 知識や業務ツールと接続できます。
 
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="AIエージェントをプライベート知識と業務ツールに接続するインテリジェントアプリケーションアーキテクチャ"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="AIエージェントをプライベート知識と業務ツールに接続するインテリジェントアプリケーションアーキテクチャ"></p>
 
 ### RAG & エンタープライズナレッジシステム
 
 RAG 指向のアーキテクチャには、次の要素を含めることができます。
 
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="ナレッジソースから根拠付き応答・アクションまでのエンタープライズ RAG パイプライン"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/rag-pipeline.svg?v=12" width="100%" alt="ナレッジソースから根拠付き応答・アクションまでのエンタープライズ RAG パイプライン"></p>
 
 主な領域には、ドキュメント処理、チャンク戦略、メタデータ、Embedding、
 ベクトルデータベース、セマンティック検索、ハイブリッド検索、再ランキング、
@@ -514,7 +514,7 @@ Sophistec は、プロダクト規模と業務要件に応じてアーキテク�
 -   必要に応じた結果整合性
 -   可観測性と分散トレーシング
 
-<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="クライアントから API Gateway、ドメインサービス、イベント、ワーカー、自動化、データ処理へつながるマイクロサービスアーキテクチャ"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/microservices-architecture.svg?v=12" width="100%" alt="クライアントから API Gateway、ドメインサービス、イベント、ワーカー、自動化、データ処理へつながるマイクロサービスアーキテクチャ"></p>
 
 ### メッセージング・キュー・イベント処理
 
@@ -547,7 +547,7 @@ Sophistec は、プロダクト規模と業務要件に応じてアーキテク�
 -   スケーラブルなプロダクト／サービスアーキテクチャ
 
 <p align="center">
-  <img src="../assets/svg/saas-organization-architecture.svg?v=14" width="100%" alt="ユーザー、ID、テナント、権限、エンタイトルメント、課金、利用量、監査、プロダクトを接続する SaaS 組織アーキテクチャ">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/saas-organization-architecture.svg?v=14" width="100%" alt="ユーザー、ID、テナント、権限、エンタイトルメント、課金、利用量、監査、プロダクトを接続する SaaS 組織アーキテクチャ">
 </p>
 
 ### 統合エンジニアリング
@@ -569,7 +569,7 @@ Sophistec は、より広いデジタルエコシステムと接続するソフ�
 -   外部 SaaS プラットフォーム
 -   社内エンタープライズシステム
 
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="アプリケーションを社内サービス、外部API、決済、マーケットプレイス、物流、政府・医療システム、AIプロバイダー、外部SaaSへ接続するエンタープライズ統合アーキテクチャ"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="アプリケーションを社内サービス、外部API、決済、マーケットプレイス、物流、政府・医療システム、AIプロバイダー、外部SaaSへ接続するエンタープライズ統合アーキテクチャ"></p>
 
 ### DevOps・クラウド・コンテナ・インフラストラクチャ
 
@@ -657,7 +657,7 @@ Git ベースのワークフロー、CI/CD、プロセス管理、デプロイ�
 ### その他のエンジニアリング領域
 
 <table width="1260">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
   <colgroup><col width="174"><col width="1086"></colgroup>
   <thead><tr><th width="174">領域</th><th width="1086">テクノロジー / 機能</th></tr></thead>
   <tbody>
@@ -682,7 +682,7 @@ Git ベースのワークフロー、CI/CD、プロセス管理、デプロイ�
 ## エンジニアリング重点領域
 
 <table width="1260">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
   <colgroup><col width="330"><col width="930"></colgroup>
   <thead><tr><th width="330">フォーカス</th><th width="930">構築するもの</th></tr></thead>
   <tbody>
@@ -703,7 +703,7 @@ Sophistec のテクノロジー開発は、デジタルプロダクトの完全�
 ライフサイクルを中心に設計されています。
 
 <p align="center">
-  <img src="../assets/svg/product-idea-to-production.svg?v=12" width="100%" alt="プロダクトアイデアから本番環境までのライフサイクル">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-idea-to-production.svg?v=12" width="100%" alt="プロダクトアイデアから本番環境までのライフサイクル">
 </p>
 
 これにより、テクノロジーを孤立したコードとしてではなく、
@@ -724,7 +724,7 @@ AI は開発を加速し、反復作業を自動化し、知識へのアクセ�
 
 
 <p align="center">
-  <img src="../assets/svg/technology-philosophy-flow.svg?v=12" width="100%" alt="人間の創造性、エンジニアリング判断、AI がより良いテクノロジー、実用価値、現実世界のインパクトへつながる流れ">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/technology-philosophy-flow.svg?v=12" width="100%" alt="人間の創造性、エンジニアリング判断、AI がより良いテクノロジー、実用価値、現実世界のインパクトへつながる流れ">
 </p>
 
 私たちの目標は、単にソフトウェアへ AI を追加することではありません。
@@ -756,7 +756,7 @@ Sophistec は、フロントエンド、バックエンド、インフラ、デ�
 機能するよう設計されています。
 
 <p align="center">
-  <img src="../assets/svg/interface-to-intelligence.svg?v=12" width="100%" alt="ユーザー体験からアプリケーション、インテリジェンス、データ、クラウドプラットフォーム、統合までを結ぶ6つのレイヤー">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/interface-to-intelligence.svg?v=12" width="100%" alt="ユーザー体験からアプリケーション、インテリジェンス、データ、クラウドプラットフォーム、統合までを結ぶ6つのレイヤー">
 </p>
 
 ---
@@ -781,7 +781,7 @@ Sophistec は、フロントエンド、バックエンド、インフラ、デ�
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=800&color=6D28D9&center=true&vCenter=true&width=900&lines=%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC+%E2%86%92+%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+%E2%86%92+%E7%9F%A5%E8%AD%98+%E2%86%92+%E3%83%84%E3%83%BC%E3%83%AB+%E2%86%92+%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3;LLM+++RAG+++%E3%83%A1%E3%83%A2%E3%83%AA+++API+++%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF;AI%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%81%8B%E3%82%89+AI+%E6%90%AD%E8%BC%89%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%B8" alt="Sophistec AIネイティブアーキテクチャ">
 </p>
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="AIエージェントをプライベート知識、データ、API、業務ツールへ接続するインテリジェントアプリケーションアーキテクチャ"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="AIエージェントをプライベート知識、データ、API、業務ツールへ接続するインテリジェントアプリケーションアーキテクチャ"></p>
 
 目的は、孤立したチャットインターフェースを超え、信頼できるコンテキストを取得し、
 許可されたツールを使用し、ソフトウェアと連携し、実際の業務ワークフローを
@@ -792,7 +792,7 @@ Sophistec は、フロントエンド、バックエンド、インフラ、デ�
 ## デリバリーライフサイクル
 
 <p align="center">
-  <img src="../assets/svg/delivery-lifecycle.svg?v=15" width="100%" alt="発見、戦略、アーキテクチャ、構築、検証、デプロイ、観測、スケールの8段階デリバリーライフサイクル">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/delivery-lifecycle.svg?v=15" width="100%" alt="発見、戦略、アーキテクチャ、構築、検証、デプロイ、観測、スケールの8段階デリバリーライフサイクル">
 </p>
 
 **発見**: 本当の問題を見つける → **定義**: プロダクトと技術の方向性を定める →
@@ -860,29 +860,29 @@ Sophistec は、フロントエンド、バックエンド、インフラ、デ�
 システムがビジネス上重要になるほど、エンジニアリング品質は実装だけでは決まりません。Sophistec は、システムの変更、リリース、サポート、ドキュメント化、継続的改善の方法も重視します。
 
 ### API ライフサイクル & 開発者体験
-<p align="center"><img src="../assets/svg/api-lifecycle.svg?v=12" width="100%" alt="API ライフサイクル"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/api-lifecycle.svg?v=12" width="100%" alt="API ライフサイクル"></p>
 
 契約ファースト設計 · OpenAPI / Swagger · バージョニング · 一貫した認証とエラー · 契約テスト · API 可観測性 · 開発者ドキュメント。
 
 ### プロダクト学習ループ
-<p align="center"><img src="../assets/svg/product-feedback-loop.svg?v=12" width="100%" alt="プロダクト学習ループ"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-feedback-loop.svg?v=12" width="100%" alt="プロダクト学習ループ"></p>
 
 エンジニアリングデリバリーをユーザーと成果へ接続します。問題を理解し、仮説を検証し、反復的にリリースし、実際の利用状況を観測し、証拠に基づいて改善します。
 
 ### インシデント対応 & 信頼性
-<p align="center"><img src="../assets/svg/incident-response-loop.svg?v=12" width="100%" alt="インシデント対応ループ"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/incident-response-loop.svg?v=12" width="100%" alt="インシデント対応ループ"></p>
 
 本番運用の成熟度には、検知、トリアージ、封じ込め、診断、復旧、レビュー、予防的改善が含まれます。
 
 ### データガバナンス & ライフサイクル
-<p align="center"><img src="../assets/svg/data-governance-lifecycle.svg?v=12" width="100%" alt="データガバナンスライフサイクル"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/data-governance-lifecycle.svg?v=12" width="100%" alt="データガバナンスライフサイクル"></p>
 
 アーキテクチャでは、データの目的、分類、アクセス境界、保持、監査可能性、バックアップ／復旧、プライバシーを考慮した処理、安全な廃棄を扱います。
 
 ## エンジニアリングとしてのドキュメント
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="360"><col width="840"></colgroup>
   <thead>
     <tr>
@@ -944,12 +944,12 @@ repository/
 Sophistec エンジニアリングの次の段階は、プロダクトと技術の集合体から、**一貫したプラットフォーム、アーキテクチャフレームワーク、開発者エコシステム、運用モデル**へ進化することです。以下ではその方向性を示します。SDK や CLI などのロードマップ機能は、実装・サポートされた後にのみ一般提供として示すべきです。
 
 ### Sophistec エンジニアリングフレームワーク
-<p align="center"><img src="../assets/svg/engineering-framework.svg?v=12" width="100%" alt="Sophistec エンジニアリングフレームワーク"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-framework.svg?v=12" width="100%" alt="Sophistec エンジニアリングフレームワーク"></p>
 
 私たちのフレームワークは、**プロダクト価値、アーキテクチャ、セキュリティ & 信頼、信頼性、パフォーマンス、運用卓越性、コスト効率、持続可能性 & 進化** の8つの柱で構成されます。
 
 ### Sophistec エンタープライズプラットフォーム
-<p align="center"><img src="../assets/svg/enterprise-platform.svg?v=12" width="100%" alt="Sophistec エンタープライズプラットフォーム"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/enterprise-platform.svg?v=12" width="100%" alt="Sophistec エンタープライズプラットフォーム"></p>
 
 ```text
 Sophistec Platform
@@ -965,47 +965,47 @@ Sophistec Platform
 共通機能はプロダクトドメインを支えつつ、各プロダクトが独立して進化できるようにします。
 
 ### 拡張機能 & コネクターフレームワーク
-<p align="center"><img src="../assets/svg/extension-framework.svg?v=12" width="100%" alt="拡張機能フレームワーク"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/extension-framework.svg?v=12" width="100%" alt="拡張機能フレームワーク"></p>
 
 モジュール型の拡張モデルでは、**プロダクトコア、モジュール、拡張機能、コネクター、Webhook、カスタムワークフロー**を分離し、エンタープライズ向けカスタマイズをより制御しやすく、保守しやすくできます。
 
 ### 開発者プラットフォーム
-<p align="center"><img src="../assets/svg/developer-platform.svg?v=12" width="100%" alt="開発者プラットフォーム"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/developer-platform.svg?v=12" width="100%" alt="開発者プラットフォーム"></p>
 
 開発者プラットフォームの方向性には、**ドキュメント、API リファレンス、SDK、CLI ツール、サンドボックス環境、サンプル、スターターキット、Changelog、ステータス情報、統合ガイド**が含まれます。
 
 ### 開発者ツール・ロードマップ
-<p align="center"><img src="../assets/svg/developer-tooling-roadmap.svg?v=12" width="100%" alt="開発者ツールロードマップ"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/developer-tooling-roadmap.svg?v=12" width="100%" alt="開発者ツールロードマップ"></p>
 
 将来的な対応候補には、JavaScript、Python、Go、PHP の SDK と Sophistec CLI が含まれます。これらは**ロードマップ上の構想**であり、別途公開・提供されるまでは現在の一般提供を意味しません。
 
 ## 信頼性・継続性 & SRE
-<p align="center"><img src="../assets/svg/reliability-sre-model.svg?v=12" width="100%" alt="信頼性 & SRE モデル"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/reliability-sre-model.svg?v=12" width="100%" alt="信頼性 & SRE モデル"></p>
 
 エンタープライズ運用では、**SLI、SLO、SLA、可用性、レイテンシ、エラー率、RTO、RPO、災害復旧、バックアップ検証、フェイルオーバー、インシデント対応、事業継続性**を考慮します。
 
 ## コスト & キャパシティエンジニアリング
-<p align="center"><img src="../assets/svg/finops-lifecycle.svg?v=12" width="100%" alt="コスト & キャパシティエンジニアリング"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/finops-lifecycle.svg?v=12" width="100%" alt="コスト & キャパシティエンジニアリング"></p>
 
 FinOps 指向のエンジニアリングは、**トラフィック、利用量計測、キャパシティ計画、コスト配賦、テナント／プロダクト単位のコスト、ライトサイジング、予測、最適化**を接続します。
 
 ## サステナブルエンジニアリング
-<p align="center"><img src="../assets/svg/sustainability-engineering.svg?v=12" width="100%" alt="サステナブルエンジニアリング"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/sustainability-engineering.svg?v=12" width="100%" alt="サステナブルエンジニアリング"></p>
 
 エンジニアリングの持続可能性には、リソース効率、ライトサイジング、ワークロードスケジューリング、適切なデータ保持、効率的なストレージ、不要な計算処理の削減、長寿命なアーキテクチャが含まれます。
 
 ## ビジネスプロセスアーキテクチャ
-<p align="center"><img src="../assets/svg/business-process-architecture.svg?v=12" width="100%" alt="ビジネスプロセスアーキテクチャ"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/business-process-architecture.svg?v=12" width="100%" alt="ビジネスプロセスアーキテクチャ"></p>
 
 Sophistec は、**財務、業務、営業、カスタマーサービス、医療、コマース、データ、インテリジェント自動化**にまたがるビジネスプロセスへテクノロジーを接続します。
 
 ## 業界ソリューションマップ
-<p align="center"><img src="../assets/svg/industry-solutions.svg?v=12" width="100%" alt="業界ソリューションマップ"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/industry-solutions.svg?v=12" width="100%" alt="業界ソリューションマップ"></p>
 
 現在および隣接するソリューション領域には、**医療、コマース & 小売、プロフェッショナルサービス、教育、エンタープライズ運用、データ & 分析、越境デジタルビジネス**が含まれます。
 
 ## Sophistec アーキテクチャセンター
-<p align="center"><img src="../assets/svg/architecture-center.svg?v=12" width="100%" alt="Sophistec アーキテクチャセンター"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/architecture-center.svg?v=12" width="100%" alt="Sophistec アーキテクチャセンター"></p>
 
 Architecture Center は、再利用可能なエンジニアリングガイダンスを整理するためのナレッジモデルです。
 
@@ -1028,14 +1028,14 @@ architecture/
 ```
 
 ## アーキテクチャレビューフレームワーク
-<p align="center"><img src="../assets/svg/architecture-review.svg?v=12" width="100%" alt="アーキテクチャレビューフレームワーク"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/architecture-review.svg?v=12" width="100%" alt="アーキテクチャレビューフレームワーク"></p>
 
 主要システムは、**プロダクト価値、アーキテクチャ、スケーラビリティ、セキュリティ、信頼性、パフォーマンス、可観測性、データ、統合、AI コントロール、コスト、保守性、災害復旧、ドキュメント**の観点からレビューできます。重要な判断は Architecture Decision Records（ADR）として記録するべきです。
 
 ## エンタープライズアーキテクチャ・チェックリスト
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="264"><col width="936"></colgroup>
   <thead>
     <tr>
@@ -1064,11 +1064,11 @@ architecture/
 
 エンタープライズテクノロジーに必要なのは、機能の多さだけではありません。Sophistec の信頼モデルは、セキュリティ、プライバシー、信頼性、ガバナンス、コンプライアンス証跡、透明性を統合します。
 
-<p align="center"><img src="../assets/svg/enterprise-trust-model.svg?v=12" width="100%" alt="エンタープライズ信頼モデル"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/enterprise-trust-model.svg?v=12" width="100%" alt="エンタープライズ信頼モデル"></p>
 
 ### Trust Center の方向性
 
-<p align="center"><img src="../assets/svg/trust-center-model.svg?v=12" width="100%" alt="Trust Center 情報モデル"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/trust-center-model.svg?v=12" width="100%" alt="Trust Center 情報モデル"></p>
 
 将来の Sophistec Trust Center では、次のような情報を一元化できます。
 
@@ -1085,7 +1085,7 @@ architecture/
 
 ## 責任ある AI フレームワーク
 
-<p align="center"><img src="../assets/svg/responsible-ai-lifecycle.svg?v=12" width="100%" alt="責任ある AI ライフサイクル"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/responsible-ai-lifecycle.svg?v=12" width="100%" alt="責任ある AI ライフサイクル"></p>
 
 Sophistec の AI 方針は、以下の原則でガバナンスされるべきです。
 
@@ -1102,10 +1102,10 @@ Sophistec の AI 方針は、以下の原則でガバナンスされるべきで
 
 ## プロダクト成熟度モデル
 
-<p align="center"><img src="../assets/svg/product-maturity-lifecycle.svg?v=12" width="100%" alt="プロダクト成熟度ライフサイクル"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-maturity-lifecycle.svg?v=12" width="100%" alt="プロダクト成熟度ライフサイクル"></p>
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="300"><col width="900"></colgroup>
   <thead>
     <tr>
@@ -1128,7 +1128,7 @@ Sophistec の AI 方針は、以下の原則でガバナンスされるべきで
 
 ## API バージョニング & 非推奨化
 
-<p align="center"><img src="../assets/svg/api-version-lifecycle.svg?v=12" width="100%" alt="API バージョンライフサイクル"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/api-version-lifecycle.svg?v=12" width="100%" alt="API バージョンライフサイクル"></p>
 
 API の進化には、安定した契約、文書化されたバージョン、後方互換性の期待値、移行ガイド、非推奨通知、明確な終了プロセスを含めるべきです。
 
@@ -1144,7 +1144,7 @@ API の進化には、安定した契約、文書化されたバージョン、�
 
 ## デプロイモデル
 
-<p align="center"><img src="../assets/svg/deployment-models.svg?v=12" width="100%" alt="デプロイモデル"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/deployment-models.svg?v=12" width="100%" alt="デプロイモデル"></p>
 
 プロダクトおよび顧客要件に応じて、アーキテクチャは以下のデプロイパターンをサポートできます。
 - **マルチテナント SaaS**
@@ -1158,18 +1158,18 @@ API の進化には、安定した契約、文書化されたバージョン、�
 
 ## リリース・保守・サポートライフサイクル
 
-<p align="center"><img src="../assets/svg/release-support-lifecycle.svg?v=12" width="100%" alt="リリース & サポートライフサイクル"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/release-support-lifecycle.svg?v=12" width="100%" alt="リリース & サポートライフサイクル"></p>
 
 成熟したリリースプロセスは、開発、テスト、プレビューチャネル、一般提供、本番観測、保守、パッチ適用、必要に応じた長期サポートをつなぎます。
 
 ## 統合カタログ
 
-<p align="center"><img src="../assets/svg/integration-catalog.svg?v=12" width="100%" alt="統合カタログ"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/integration-catalog.svg?v=12" width="100%" alt="統合カタログ"></p>
 
 Sophistec の統合エコシステムは、個別接続の寄せ集めではなく、再利用可能なカタログとして整理できます。
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="264"><col width="936"></colgroup>
   <thead><tr><th width="264">ドメイン</th><th width="936">統合機能の例</th></tr></thead>
   <tbody>

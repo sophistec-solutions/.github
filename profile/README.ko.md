@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="../assets/logos/sophistec_global.png" width="720" alt="Sophistec Global logo">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/sophistec_global.png" width="720" alt="Sophistec Global logo">
 </p>
 
 <p align="center">
@@ -51,43 +51,43 @@
 
 | 로고 | 브랜드 | 주요 역할 | 자세히 보기 |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global 로고"> | **Sophistec Global** | 인도네시아 시장 진입 컨설팅, 법인 설립, Employer of Record(EOR), 현지 채용 지원, 투자 지원, 국경 간 비즈니스 확장. | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_dev_house_01.png" width="52" alt="Sophistec Dev House 로고"> | **Sophistec Dev House** | 맞춤형 소프트웨어 개발, 모바일 앱, API 통합, AI, 자동화, 클라우드, 데이터, UI/UX, 기술 팀. | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_academy_01.png" width="52" alt="Sophistec Academy 로고"> | **Sophistec Academy** | 학습, 경영진 교육, 창업가 교육, 지식 공유 프로그램. | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_studio_01.png" width="52" alt="Sophistec Studio 로고"> | **Sophistec Studio** | 크리에이티브 기술, 사진, 영상 제작, 이벤트 기록, 브랜드 경험. | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_growth_hub_01.png" width="52" alt="Sophistec Growth Hub 로고"> | **Sophistec Growth Hub** | 전략적 마케팅, 홍보, 소셜 미디어, 브랜드 성장, 커뮤니티 참여. | <a href="https://growthhub.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_founder_scape_01.png" width="52" alt="Founder Scape 로고"> | **Founder Scape** | 비즈니스, 혁신, 리더십, 임팩트를 탐구하는 플랫폼 및 팟캐스트. | <a href="https://founderscape.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_dd_walk_01.png" width="52" alt="DD Walk 로고"> | **DD Walk** | Sophistec 생태계 내 라이프스타일 및 발견 중심 플랫폼. | <a href="https://ddwalk.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_chill_mama_01.png" width="52" alt="Chill Mama 로고"> | **Chill Mama** | 커뮤니티 중심의 라이프스타일 브랜드. | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global 로고"> | **Sophistec Global** | 인도네시아 시장 진입 컨설팅, 법인 설립, Employer of Record(EOR), 현지 채용 지원, 투자 지원, 국경 간 비즈니스 확장. | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_dev_house_01.png" width="52" alt="Sophistec Dev House 로고"> | **Sophistec Dev House** | 맞춤형 소프트웨어 개발, 모바일 앱, API 통합, AI, 자동화, 클라우드, 데이터, UI/UX, 기술 팀. | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_academy_01.png" width="52" alt="Sophistec Academy 로고"> | **Sophistec Academy** | 학습, 경영진 교육, 창업가 교육, 지식 공유 프로그램. | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_studio_01.png" width="52" alt="Sophistec Studio 로고"> | **Sophistec Studio** | 크리에이티브 기술, 사진, 영상 제작, 이벤트 기록, 브랜드 경험. | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_growth_hub_01.png" width="52" alt="Sophistec Growth Hub 로고"> | **Sophistec Growth Hub** | 전략적 마케팅, 홍보, 소셜 미디어, 브랜드 성장, 커뮤니티 참여. | <a href="https://growthhub.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_founder_scape_01.png" width="52" alt="Founder Scape 로고"> | **Founder Scape** | 비즈니스, 혁신, 리더십, 임팩트를 탐구하는 플랫폼 및 팟캐스트. | <a href="https://founderscape.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_dd_walk_01.png" width="52" alt="DD Walk 로고"> | **DD Walk** | Sophistec 생태계 내 라이프스타일 및 발견 중심 플랫폼. | <a href="https://ddwalk.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_chill_mama_01.png" width="52" alt="Chill Mama 로고"> | **Chill Mama** | 커뮤니티 중심의 라이프스타일 브랜드. | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
 
 ## 디지털 제품
 
 | 로고 | 제품 | 초점 | 자세히 보기 |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions 로고"> | **Sophistec Optima Solutions** | 조직을 위한 비즈니스 최적화 및 디지털 솔루션. | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Aivora logo"> | **Sophistec Aivora** | 지능형 지원, 워크플로 오케스트레이션 및 비즈니스 자동화를 위한 AI 에이전트 플랫폼입니다. | <a href="https://aivora.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft 로고"> | **Sophistec Data Craft** | 데이터 중심 솔루션, 분석, 디지털 인텔리전스. | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C 로고"> | **Sophistec C4C** | Sophistec 생태계 내 전용 플랫폼. | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel 로고"> | **Sophistec Omnichannel** | 마켓플레이스, 물류, 결제, 판매 채널 통합을 포함한 통합 커머스 운영. | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft 로고"> | **Sophistec Market Craft** | 디지털 성장, 마케팅, 시장 접점 솔루션. | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Vendix logo"> | **Sophistec Vendix** | 재고, 결제, 텔레메트리 및 운영 관리를 위한 연결형 자동판매기 플랫폼입니다. | <a href="https://vendix.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack 로고"> | **Sophistec Smart Rack** | 스마트 운영 및 랙 관리 솔루션. | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub 로고"> | **Sophistec Service Hub** | 중앙 집중형 지원 및 서비스 관리 솔루션. | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore 로고"> | **Sophistec Medicore** | 병원, 클리닉, 약국, 검사실, 영상의학을 연결하는 의료 관리. | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon 로고"> | **Sophistec Denticon** | 치과 진료 및 구강 건강 운영을 위한 디지털 솔루션. | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust 로고"> | **Sophistec Key Trust** | **Physical Unclonable Function(PUF)** 기술과 **FIDO2** 인증을 사용하는 하드웨어 기반 디바이스 ID 및 보안으로, 모든 ID를 근본부터 보호하도록 설계되었습니다. | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora 로고"> | **Sophistec Lumora** | 현장 사진 경험, 로밍/밍글 촬영, 브랜드 이벤트 프레임, 즉시 공유, 가상 인사를 위한 현대적인 포토부스 플랫폼. | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub 로고"> | **Sophistec Career Hub** | 커리어 및 인재 개발 플랫폼. | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_edu_pro_01.png" width="52" alt="Sophistec Edu Pro 로고"> | **Sophistec Edu Pro** | 전문 교육 및 학습 솔루션. | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_edu_plus_01.png" width="52" alt="Sophistec Edu Plus 로고"> | **Sophistec Edu Plus** | 더 넓은 커뮤니티를 위한 접근성 높은 교육 및 학습 솔루션. | <a href="https://eduplus.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions 로고"> | **Sophistec Optima Solutions** | 조직을 위한 비즈니스 최적화 및 디지털 솔루션. | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Aivora logo"> | **Sophistec Aivora** | 지능형 지원, 워크플로 오케스트레이션 및 비즈니스 자동화를 위한 AI 에이전트 플랫폼입니다. | <a href="https://aivora.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft 로고"> | **Sophistec Data Craft** | 데이터 중심 솔루션, 분석, 디지털 인텔리전스. | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C 로고"> | **Sophistec C4C** | Sophistec 생태계 내 전용 플랫폼. | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel 로고"> | **Sophistec Omnichannel** | 마켓플레이스, 물류, 결제, 판매 채널 통합을 포함한 통합 커머스 운영. | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft 로고"> | **Sophistec Market Craft** | 디지털 성장, 마케팅, 시장 접점 솔루션. | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Vendix logo"> | **Sophistec Vendix** | 재고, 결제, 텔레메트리 및 운영 관리를 위한 연결형 자동판매기 플랫폼입니다. | <a href="https://vendix.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack 로고"> | **Sophistec Smart Rack** | 스마트 운영 및 랙 관리 솔루션. | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub 로고"> | **Sophistec Service Hub** | 중앙 집중형 지원 및 서비스 관리 솔루션. | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore 로고"> | **Sophistec Medicore** | 병원, 클리닉, 약국, 검사실, 영상의학을 연결하는 의료 관리. | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon 로고"> | **Sophistec Denticon** | 치과 진료 및 구강 건강 운영을 위한 디지털 솔루션. | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust 로고"> | **Sophistec Key Trust** | **Physical Unclonable Function(PUF)** 기술과 **FIDO2** 인증을 사용하는 하드웨어 기반 디바이스 ID 및 보안으로, 모든 ID를 근본부터 보호하도록 설계되었습니다. | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora 로고"> | **Sophistec Lumora** | 현장 사진 경험, 로밍/밍글 촬영, 브랜드 이벤트 프레임, 즉시 공유, 가상 인사를 위한 현대적인 포토부스 플랫폼. | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub 로고"> | **Sophistec Career Hub** | 커리어 및 인재 개발 플랫폼. | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_edu_pro_01.png" width="52" alt="Sophistec Edu Pro 로고"> | **Sophistec Edu Pro** | 전문 교육 및 학습 솔루션. | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_edu_plus_01.png" width="52" alt="Sophistec Edu Plus 로고"> | **Sophistec Edu Plus** | 더 넓은 커뮤니티를 위한 접근성 높은 교육 및 학습 솔루션. | <a href="https://eduplus.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
 
 ## 커뮤니티
 
 | 로고 | 커뮤니티 | 목적 | 자세히 보기 |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_wander_lens_01.png" width="52" alt="Sophistec Wander Lens 로고"> | **Sophistec Wander Lens** | 시각적 스토리텔링을 통해 세상을 탐험하고 기록하며 경험하는 사람들을 위한 커뮤니티. | <a href="https://wanderlens.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_photo_walk_01.png" width="52" alt="Sophistec Photo Walk 로고"> | **Sophistec Photo Walk** | 함께 배우고 연결되며 탐험할 기회를 만드는 사진 커뮤니티. | <a href="https://photowalk.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global 로고"> | **NASA Space Apps Challenge Indonesia** | 오픈 데이터를 활용해 실제 문제를 해결하는 사람들을 연결하는 글로벌 혁신 커뮤니티 및 지역 프로그램. | <a href="https://nasaspaceappsindonesia.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_wander_lens_01.png" width="52" alt="Sophistec Wander Lens 로고"> | **Sophistec Wander Lens** | 시각적 스토리텔링을 통해 세상을 탐험하고 기록하며 경험하는 사람들을 위한 커뮤니티. | <a href="https://wanderlens.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_photo_walk_01.png" width="52" alt="Sophistec Photo Walk 로고"> | **Sophistec Photo Walk** | 함께 배우고 연결되며 탐험할 기회를 만드는 사진 커뮤니티. | <a href="https://photowalk.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global 로고"> | **NASA Space Apps Challenge Indonesia** | 오픈 데이터를 활용해 실제 문제를 해결하는 사람들을 연결하는 글로벌 혁신 커뮤니티 및 지역 프로그램. | <a href="https://nasaspaceappsindonesia.sophistec.global/" target="_blank" rel="noopener noreferrer">자세히 보기</a> |
 
 ## 하나의 생태계, 엔드투엔드 지원
 
@@ -231,7 +231,7 @@ Sophistec의 플랫폼 방향은 ID, 조직, 과금, 제품 접근,
 각 제품이 독립적으로 발전할 수 있도록 하는 것입니다.
 
 <p align="center">
-<img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec 연결형 플랫폼 아키텍처">
+<img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec 연결형 플랫폼 아키텍처">
 </p>
 
 ### 엔지니어링 도메인 맵
@@ -251,7 +251,7 @@ AI는 단순한 챗봇 기능이 아니라 제품과 운영에 연결된
 인텔리전스 레이어로 다룹니다.
 
 <p align="center">
-<img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Sophistec 인텔리전스 레이어">
+<img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Sophistec 인텔리전스 레이어">
 </p>
 LLM, 에이전트, RAG, 메모리, 도구, MCP, API, 권한, 비즈니스 로직을
 함께 연결해 신뢰할 수 있는 컨텍스트를 검색하고 통제된 실제 작업을
@@ -260,13 +260,13 @@ LLM, 에이전트, RAG, 메모리, 도구, MCP, API, 권한, 비즈니스 로직
 ## 애니메이션 엔지니어링 워크플로
 
 <p align="center">
-<img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="Sophistec 애니메이션 엔지니어링 워크플로">
+<img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-journey.svg?v=12" width="100%" alt="Sophistec 애니메이션 엔지니어링 워크플로">
 </p>
 
 ## 제품 × 엔지니어링 역량 맵
 
 <table width="1200" cellspacing="0" cellpadding="6">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <thead><tr><th width="336">플랫폼</th><th width="120">SaaS</th><th width="216">API / 통합</th><th width="144">AI / 데이터</th><th width="168">자동화</th><th width="216">ID / 접근</th></tr></thead>
   <tbody>
     <tr><td><strong>Sophistec Optima Solutions</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
@@ -292,67 +292,67 @@ LLM, 에이전트, RAG, 메모리, 도구, MCP, API, 권한, 비즈니스 로직
 
 ## 엔지니어링 표준
 
-<p align="center"><img src="../assets/svg/engineering-standards-table.svg?v=1" width="100%" alt="구축, 운영, 보호, 발전을 다루는 엔지니어링 표준 표"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-standards-table.svg?v=1" width="100%" alt="구축, 운영, 보호, 발전을 다루는 엔지니어링 표준 표"></p>
 
 ## Sophistec 비주얼 시스템
 
 <p align="center">
-  <img src="../assets/svg/hero-technology-network.svg?v=12" width="100%" alt="Sophistec 기술 생태계">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/hero-technology-network.svg?v=12" width="100%" alt="Sophistec 기술 생태계">
 </p>
 
 ### 제품 컨스텔레이션
-<p align="center"><img src="../assets/svg/product-constellation.svg?v=14" width="100%" alt="Sophistec 제품 컨스텔레이션"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-constellation.svg?v=14" width="100%" alt="Sophistec 제품 컨스텔레이션"></p>
 
 ### 국경 간 협업
-<p align="center"><img src="../assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec 국경 간 협업"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec 국경 간 협업"></p>
 
 ### 요청 라이프사이클
-<p align="center"><img src="../assets/svg/request-lifecycle.svg?v=12" width="100%" alt="요청에서 프로덕션까지의 라이프사이클"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/request-lifecycle.svg?v=12" width="100%" alt="요청에서 프로덕션까지의 라이프사이클"></p>
 
 ### 에이전틱 실행
-<p align="center"><img src="../assets/svg/agentic-execution-loop.svg?v=12" width="100%" alt="에이전틱 실행 루프"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/agentic-execution-loop.svg?v=12" width="100%" alt="에이전틱 실행 루프"></p>
 
 ### 데이터에서 인텔리전스로
-<p align="center"><img src="../assets/svg/data-intelligence-lifecycle.svg?v=12" width="100%" alt="데이터 인텔리전스 라이프사이클"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/data-intelligence-lifecycle.svg?v=12" width="100%" alt="데이터 인텔리전스 라이프사이클"></p>
 
 ### 엔지니어링 원칙
-<p align="center"><img src="../assets/svg/engineering-principles.svg?v=12" width="100%" alt="엔지니어링 원칙"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-principles.svg?v=12" width="100%" alt="엔지니어링 원칙"></p>
 
 ### 역량 시스템
-<p align="center"><img src="../assets/svg/capability-system.svg?v=12" width="100%" alt="엔지니어링 역량 시스템"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/capability-system.svg?v=12" width="100%" alt="엔지니어링 역량 시스템"></p>
 
 ## 프리미엄 엔지니어링 비주얼
 
 이 다이어그램은 Sophistec가 제품 엔지니어링을 고립된 기술이 아니라 서로 연결된 시스템으로 접근하는 방식을 요약합니다.
 
-<p align="center"><img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="엔지니어링 여정"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-journey.svg?v=12" width="100%" alt="엔지니어링 여정"></p>
 
 ### 연결형 플랫폼
-<p align="center"><img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="연결형 플랫폼 아키텍처"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="연결형 플랫폼 아키텍처"></p>
 
 ### 마이크로서비스 및 분산 시스템
-<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="마이크로서비스 아키텍처"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/microservices-architecture.svg?v=12" width="100%" alt="마이크로서비스 아키텍처"></p>
 
 ### AI 네이티브 인텔리전스
-<p align="center"><img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="AI 인텔리전스 레이어"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="AI 인텔리전스 레이어"></p>
 
 ### 엔터프라이즈 RAG
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="엔터프라이즈 RAG 파이프라인"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/rag-pipeline.svg?v=12" width="100%" alt="엔터프라이즈 RAG 파이프라인"></p>
 
 ### CI/CD 및 프로덕션 전달
-<p align="center"><img src="../assets/svg/cicd-pipeline.svg?v=12" width="100%" alt="CI/CD 파이프라인"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/cicd-pipeline.svg?v=12" width="100%" alt="CI/CD 파이프라인"></p>
 
 ### 엔터프라이즈 통합
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="통합 생태계"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="통합 생태계"></p>
 
 ### SaaS ID 및 권한
-<p align="center"><img src="../assets/svg/saas-identity-flow.svg?v=12" width="100%" alt="SaaS ID 흐름"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/saas-identity-flow.svg?v=12" width="100%" alt="SaaS ID 흐름"></p>
 
 ### 관측 가능성 및 신뢰성
-<p align="center"><img src="../assets/svg/observability-loop.svg?v=12" width="100%" alt="관측 가능성 루프"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/observability-loop.svg?v=12" width="100%" alt="관측 가능성 루프"></p>
 
 ### 설계 단계부터의 보안
-<p align="center"><img src="../assets/svg/security-by-design.svg?v=12" width="100%" alt="설계 단계부터의 보안"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/security-by-design.svg?v=12" width="100%" alt="설계 단계부터의 보안"></p>
 
 ## 기술 및 엔지니어링 역량
 
@@ -434,13 +434,13 @@ Sophistec는 제품 사고, 소프트웨어 엔지니어링, 인공지능,
 일반적인 지능형 애플리케이션은 모델을 프라이빗 지식 및
 운영 도구와 연결할 수 있습니다:
 
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="AI 에이전트를 프라이빗 지식 및 운영 도구와 연결하는 지능형 애플리케이션 아키텍처"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="AI 에이전트를 프라이빗 지식 및 운영 도구와 연결하는 지능형 애플리케이션 아키텍처"></p>
 
 ### RAG 및 엔터프라이즈 지식 시스템
 
 RAG 중심 아키텍처에는 다음이 포함될 수 있습니다:
 
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="지식 소스에서 근거 있는 응답과 작업으로 이어지는 엔터프라이즈 RAG 파이프라인"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/rag-pipeline.svg?v=12" width="100%" alt="지식 소스에서 근거 있는 응답과 작업으로 이어지는 엔터프라이즈 RAG 파이프라인"></p>
 
 핵심 영역에는 문서 처리, 청킹 전략, 메타데이터,
 임베딩, 벡터 데이터베이스, 시맨틱 검색, 하이브리드 검색,
@@ -514,7 +514,7 @@ Sophistec는 제품 규모와 운영 요구사항에 맞춰
 -   필요한 경우 최종 일관성
 -   관측 가능성 및 분산 추적
 
-<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="클라이언트에서 API 게이트웨이, 도메인 서비스, 이벤트, 워커, 자동화, 데이터 처리로 이어지는 마이크로서비스 아키텍처"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/microservices-architecture.svg?v=12" width="100%" alt="클라이언트에서 API 게이트웨이, 도메인 서비스, 이벤트, 워커, 자동화, 데이터 처리로 이어지는 마이크로서비스 아키텍처"></p>
 
 ### 메시징, 큐 및 이벤트 처리
 
@@ -547,7 +547,7 @@ Sophistec는 제품 규모와 운영 요구사항에 맞춰
 -   확장 가능한 제품 및 서비스 아키텍처
 
 <p align="center">
-  <img src="../assets/svg/saas-organization-architecture.svg?v=14" width="100%" alt="사용자, ID, 테넌트, 권한, 제품 권한, 과금, 사용량, 감사, 제품을 연결하는 SaaS 조직 아키텍처">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/saas-organization-architecture.svg?v=14" width="100%" alt="사용자, ID, 테넌트, 권한, 제품 권한, 과금, 사용량, 감사, 제품을 연결하는 SaaS 조직 아키텍처">
 </p>
 
 ### 통합 엔지니어링
@@ -569,7 +569,7 @@ Sophistec는 더 넓은 디지털 생태계와 연결되는 소프트웨어를 �
 -   외부 SaaS 플랫폼
 -   내부 엔터프라이즈 시스템
 
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="애플리케이션을 내부 서비스, 외부 API, 결제, 마켓플레이스, 물류, 정부 및 의료 시스템, AI 제공자, 타사 SaaS와 연결하는 엔터프라이즈 통합 아키텍처"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="애플리케이션을 내부 서비스, 외부 API, 결제, 마켓플레이스, 물류, 정부 및 의료 시스템, AI 제공자, 타사 SaaS와 연결하는 엔터프라이즈 통합 아키텍처"></p>
 
 ### DevOps, 클라우드, 컨테이너 및 인프라
 
@@ -657,7 +657,7 @@ Sophistec는 더 넓은 디지털 생태계와 연결되는 소프트웨어를 �
 ### 추가 엔지니어링 범위
 
 <table width="1260">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
   <colgroup><col width="174"><col width="1086"></colgroup>
   <thead><tr><th width="174">영역</th><th width="1086">기술 / 역량</th></tr></thead>
   <tbody>
@@ -682,7 +682,7 @@ Sophistec는 더 넓은 디지털 생태계와 연결되는 소프트웨어를 �
 ## 엔지니어링 집중 영역
 
 <table width="1260">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
   <colgroup><col width="330"><col width="930"></colgroup>
   <thead><tr><th width="330">집중 영역</th><th width="930">우리가 구축하는 것</th></tr></thead>
   <tbody>
@@ -703,7 +703,7 @@ Sophistec의 기술 작업은 디지털 제품의 전체 라이프사이클을
 중심으로 설계됩니다:
 
 <p align="center">
-  <img src="../assets/svg/product-idea-to-production.svg?v=12" width="100%" alt="제품 아이디어에서 프로덕션까지의 라이프사이클">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-idea-to-production.svg?v=12" width="100%" alt="제품 아이디어에서 프로덕션까지의 라이프사이클">
 </p>
 
 이를 통해 기술을 고립된 코드가 아니라
@@ -724,7 +724,7 @@ AI는 개발을 가속하고, 반복 작업을 자동화하며, 지식에 대한
 달려 있습니다.
 
 <p align="center">
-  <img src="../assets/svg/technology-philosophy-flow.svg?v=12" width="100%" alt="인간의 창의성, 엔지니어링 판단, AI가 더 나은 기술과 실용적 가치, 실제 영향으로 이어지는 흐름">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/technology-philosophy-flow.svg?v=12" width="100%" alt="인간의 창의성, 엔지니어링 판단, AI가 더 나은 기술과 실용적 가치, 실제 영향으로 이어지는 흐름">
 </p>
 
 우리의 목표는 단순히 소프트웨어에 AI를 추가하는 것이 아닙니다.
@@ -756,7 +756,7 @@ Sophistec는 프론트엔드, 백엔드, 인프라, 데이터, AI를
 작동하도록 설계되었습니다.
 
 <p align="center">
-  <img src="../assets/svg/interface-to-intelligence.svg?v=12" width="100%" alt="사용자 경험부터 애플리케이션, 인텔리전스, 데이터, 클라우드 플랫폼, 통합까지 이어지는 여섯 개의 연결 계층">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/interface-to-intelligence.svg?v=12" width="100%" alt="사용자 경험부터 애플리케이션, 인텔리전스, 데이터, 클라우드 플랫폼, 통합까지 이어지는 여섯 개의 연결 계층">
 </p>
 
 ---
@@ -781,7 +781,7 @@ Sophistec는 프론트엔드, 백엔드, 인프라, 데이터, AI를
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=800&color=6D28D9&center=true&vCenter=true&width=900&lines=%EC%82%AC%EC%9A%A9%EC%9E%90+%E2%86%92+%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8+%E2%86%92+%EC%A7%80%EC%8B%9D+%E2%86%92+%EB%8F%84%EA%B5%AC+%E2%86%92+%EC%9E%91%EC%97%85;LLM+++RAG+++%EB%A9%94%EB%AA%A8%EB%A6%AC+++API+++%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4+%EB%A1%9C%EC%A7%81;AI+%EC%B1%84%ED%8C%85%EC%97%90%EC%84%9C+AI+%EA%B8%B0%EB%B0%98+%EC%9A%B4%EC%98%81%EC%9C%BC%EB%A1%9C" alt="Sophistec AI 네이티브 아키텍처 애니메이션">
 </p>
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="AI 에이전트를 프라이빗 지식, 데이터, API, 비즈니스 도구와 연결하는 지능형 애플리케이션 아키텍처"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="AI 에이전트를 프라이빗 지식, 데이터, API, 비즈니스 도구와 연결하는 지능형 애플리케이션 아키텍처"></p>
 
 목표는 고립된 채팅 인터페이스를 넘어, 신뢰할 수 있는 컨텍스트를
 검색하고, 허용된 도구를 사용하며, 소프트웨어와 상호작용하고,
@@ -792,7 +792,7 @@ Sophistec는 프론트엔드, 백엔드, 인프라, 데이터, AI를
 ## 전달 라이프사이클
 
 <p align="center">
-  <img src="../assets/svg/delivery-lifecycle.svg?v=15" width="100%" alt="발견부터 전략, 아키텍처, 구축, 검증, 배포, 관찰, 확장까지의 8단계 전달 라이프사이클">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/delivery-lifecycle.svg?v=15" width="100%" alt="발견부터 전략, 아키텍처, 구축, 검증, 배포, 관찰, 확장까지의 8단계 전달 라이프사이클">
 </p>
 
 실제 문제를 **발견** → 제품 및 기술 방향을 **정의** →
@@ -860,29 +860,29 @@ Sophistec는 프론트엔드, 백엔드, 인프라, 데이터, AI를
 시스템이 비즈니스 핵심 요소가 될수록 엔지니어링 품질은 구현만으로 결정되지 않습니다. Sophistec는 시스템이 어떻게 변경되고, 출시되고, 지원되고, 문서화되고, 지속적으로 개선되는지도 고려합니다.
 
 ### API 라이프사이클 및 개발자 경험
-<p align="center"><img src="../assets/svg/api-lifecycle.svg?v=12" width="100%" alt="API 라이프사이클"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/api-lifecycle.svg?v=12" width="100%" alt="API 라이프사이클"></p>
 
 계약 우선 설계 · OpenAPI / Swagger · 버전 관리 · 일관된 인증 및 오류 · 계약 테스트 · API 관측 가능성 · 개발자 문서.
 
 ### 제품 학습 루프
-<p align="center"><img src="../assets/svg/product-feedback-loop.svg?v=12" width="100%" alt="제품 학습 루프"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-feedback-loop.svg?v=12" width="100%" alt="제품 학습 루프"></p>
 
 엔지니어링 전달은 다시 사용자와 성과로 연결됩니다. 문제를 이해하고, 가정을 검증하며, 반복적으로 출시하고, 실제 사용을 관찰하고, 증거를 바탕으로 개선 방향을 결정합니다.
 
 ### 사고 대응 및 신뢰성
-<p align="center"><img src="../assets/svg/incident-response-loop.svg?v=12" width="100%" alt="사고 대응 루프"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/incident-response-loop.svg?v=12" width="100%" alt="사고 대응 루프"></p>
 
 프로덕션 성숙도에는 탐지, 분류, 격리, 진단, 복구, 검토, 예방적 개선이 포함됩니다.
 
 ### 데이터 거버넌스 및 라이프사이클
-<p align="center"><img src="../assets/svg/data-governance-lifecycle.svg?v=12" width="100%" alt="데이터 거버넌스 라이프사이클"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/data-governance-lifecycle.svg?v=12" width="100%" alt="데이터 거버넌스 라이프사이클"></p>
 
 아키텍처는 데이터 목적, 분류, 접근 경계, 보존, 감사 가능성, 백업/복구, 개인정보 보호를 고려한 처리, 안전한 폐기를 고려합니다.
 
 ## 엔지니어링으로서의 문서화
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="360"><col width="840"></colgroup>
   <thead>
     <tr>
@@ -944,12 +944,12 @@ repository/
 Sophistec 엔지니어링의 다음 단계는 제품과 기술의 집합에서 **일관된 플랫폼, 아키텍처 프레임워크, 개발자 생태계, 운영 모델**로 발전하는 것입니다. 아래 섹션은 그 방향을 설명합니다. SDK와 CLI 도구 같은 로드맵 역량은 실제로 구현되고 지원될 때만 일반적으로 제공되는 기능으로 표시해야 합니다.
 
 ### Sophistec 엔지니어링 프레임워크
-<p align="center"><img src="../assets/svg/engineering-framework.svg?v=12" width="100%" alt="Sophistec 엔지니어링 프레임워크"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-framework.svg?v=12" width="100%" alt="Sophistec 엔지니어링 프레임워크"></p>
 
 우리의 프레임워크는 여덟 가지 축을 사용합니다: **제품 가치, 아키텍처, 보안 및 신뢰, 신뢰성, 성능, 운영 우수성, 비용 효율성, 지속 가능성 및 발전**.
 
 ### Sophistec 엔터프라이즈 플랫폼
-<p align="center"><img src="../assets/svg/enterprise-platform.svg?v=12" width="100%" alt="Sophistec 엔터프라이즈 플랫폼"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/enterprise-platform.svg?v=12" width="100%" alt="Sophistec 엔터프라이즈 플랫폼"></p>
 
 ```text
 Sophistec 플랫폼
@@ -965,47 +965,47 @@ Sophistec 플랫폼
 공유 역량은 제품 도메인을 지원하면서 각 제품이 독립적으로 발전할 수 있도록 합니다.
 
 ### 확장 및 커넥터 프레임워크
-<p align="center"><img src="../assets/svg/extension-framework.svg?v=12" width="100%" alt="확장 프레임워크"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/extension-framework.svg?v=12" width="100%" alt="확장 프레임워크"></p>
 
 모듈형 확장 모델은 **제품 코어, 모듈, 확장 기능, 커넥터, Webhook, 맞춤형 워크플로**를 분리하여 엔터프라이즈 맞춤화를 더 통제 가능하고 유지보수하기 쉽게 만들 수 있습니다.
 
 ### 개발자 플랫폼
-<p align="center"><img src="../assets/svg/developer-platform.svg?v=12" width="100%" alt="개발자 플랫폼"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/developer-platform.svg?v=12" width="100%" alt="개발자 플랫폼"></p>
 
 개발자 플랫폼 방향에는 **문서, API 레퍼런스, SDK, CLI 도구, 샌드박스 환경, 예제, 스타터 키트, 변경 로그, 상태 정보, 통합 가이드**가 포함됩니다.
 
 ### 개발자 도구 로드맵
-<p align="center"><img src="../assets/svg/developer-tooling-roadmap.svg?v=12" width="100%" alt="개발자 도구 로드맵"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/developer-tooling-roadmap.svg?v=12" width="100%" alt="개발자 도구 로드맵"></p>
 
 향후 지원 가능한 도구에는 JavaScript, Python, Go, PHP SDK와 Sophistec CLI가 포함됩니다. 이들은 별도로 공개되기 전까지는 현재 일반 제공을 의미하지 않는 **로드맵 개념**입니다.
 
 ## 신뢰성, 연속성 및 SRE
-<p align="center"><img src="../assets/svg/reliability-sre-model.svg?v=12" width="100%" alt="신뢰성 및 SRE 모델"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/reliability-sre-model.svg?v=12" width="100%" alt="신뢰성 및 SRE 모델"></p>
 
 엔터프라이즈 운영에서는 **SLI, SLO, SLA, 가용성, 지연 시간, 오류율, RTO, RPO, 재해 복구, 백업 검증, 장애 조치, 사고 대응, 비즈니스 연속성**을 고려합니다.
 
 ## 비용 및 용량 엔지니어링
-<p align="center"><img src="../assets/svg/finops-lifecycle.svg?v=12" width="100%" alt="비용 및 용량 엔지니어링"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/finops-lifecycle.svg?v=12" width="100%" alt="비용 및 용량 엔지니어링"></p>
 
 FinOps 중심 엔지니어링은 **트래픽, 사용량 측정, 용량 계획, 비용 배분, 테넌트/제품별 비용, 적정 규모 조정, 예측, 최적화**를 연결합니다.
 
 ## 지속 가능한 엔지니어링
-<p align="center"><img src="../assets/svg/sustainability-engineering.svg?v=12" width="100%" alt="지속 가능한 엔지니어링"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/sustainability-engineering.svg?v=12" width="100%" alt="지속 가능한 엔지니어링"></p>
 
 엔지니어링 지속 가능성에는 자원 효율성, 적정 규모 조정, 워크로드 스케줄링, 합리적인 데이터 보존, 효율적인 저장소, 불필요한 연산 감소, 아키텍처 수명 연장이 포함됩니다.
 
 ## 비즈니스 프로세스 아키텍처
-<p align="center"><img src="../assets/svg/business-process-architecture.svg?v=12" width="100%" alt="비즈니스 프로세스 아키텍처"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/business-process-architecture.svg?v=12" width="100%" alt="비즈니스 프로세스 아키텍처"></p>
 
 Sophistec는 **재무, 운영, 영업, 고객 서비스, 헬스케어, 커머스, 데이터, 지능형 자동화** 전반의 비즈니스 프로세스와 기술을 연결합니다.
 
 ## 산업 솔루션 맵
-<p align="center"><img src="../assets/svg/industry-solutions.svg?v=12" width="100%" alt="산업 솔루션 맵"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/industry-solutions.svg?v=12" width="100%" alt="산업 솔루션 맵"></p>
 
 현재 및 인접 솔루션 영역에는 **헬스케어, 커머스 및 리테일, 전문 서비스, 교육, 엔터프라이즈 운영, 데이터 및 분석, 국경 간 디지털 비즈니스**가 포함됩니다.
 
 ## Sophistec 아키텍처 센터
-<p align="center"><img src="../assets/svg/architecture-center.svg?v=12" width="100%" alt="Sophistec 아키텍처 센터"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/architecture-center.svg?v=12" width="100%" alt="Sophistec 아키텍처 센터"></p>
 
 아키텍처 센터는 재사용 가능한 엔지니어링 가이드를 체계화하기 위한 지식 모델입니다:
 
@@ -1028,14 +1028,14 @@ architecture/
 ```
 
 ## 아키텍처 리뷰 프레임워크
-<p align="center"><img src="../assets/svg/architecture-review.svg?v=12" width="100%" alt="아키텍처 리뷰 프레임워크"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/architecture-review.svg?v=12" width="100%" alt="아키텍처 리뷰 프레임워크"></p>
 
 주요 시스템은 **제품 가치, 아키텍처, 확장성, 보안, 신뢰성, 성능, 관측 가능성, 데이터, 통합, AI 통제, 비용, 유지보수성, 재해 복구, 문서화** 기준으로 검토할 수 있습니다. 중요한 결정은 Architecture Decision Records(ADR)로 기록해야 합니다.
 
 ## 엔터프라이즈 아키텍처 체크리스트
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="264"><col width="936"></colgroup>
   <thead>
     <tr>
@@ -1064,11 +1064,11 @@ architecture/
 
 엔터프라이즈 기술에는 기능의 폭만으로는 충분하지 않습니다. Sophistec의 신뢰 모델은 보안, 개인정보 보호, 신뢰성, 거버넌스, 컴플라이언스 증거, 투명성을 하나로 결합합니다.
 
-<p align="center"><img src="../assets/svg/enterprise-trust-model.svg?v=12" width="100%" alt="엔터프라이즈 신뢰 모델"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/enterprise-trust-model.svg?v=12" width="100%" alt="엔터프라이즈 신뢰 모델"></p>
 
 ### Trust Center 방향
 
-<p align="center"><img src="../assets/svg/trust-center-model.svg?v=12" width="100%" alt="Trust Center 정보 모델"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/trust-center-model.svg?v=12" width="100%" alt="Trust Center 정보 모델"></p>
 
 향후 Sophistec Trust Center는 다음과 같은 정보를 중앙화할 수 있습니다:
 
@@ -1085,7 +1085,7 @@ architecture/
 
 ## 책임 있는 AI 프레임워크
 
-<p align="center"><img src="../assets/svg/responsible-ai-lifecycle.svg?v=12" width="100%" alt="책임 있는 AI 라이프사이클"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/responsible-ai-lifecycle.svg?v=12" width="100%" alt="책임 있는 AI 라이프사이클"></p>
 
 Sophistec의 AI 방향은 다음 원칙으로 관리되어야 합니다:
 
@@ -1102,10 +1102,10 @@ Sophistec의 AI 방향은 다음 원칙으로 관리되어야 합니다:
 
 ## 제품 성숙도 모델
 
-<p align="center"><img src="../assets/svg/product-maturity-lifecycle.svg?v=12" width="100%" alt="제품 성숙도 라이프사이클"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-maturity-lifecycle.svg?v=12" width="100%" alt="제품 성숙도 라이프사이클"></p>
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="300"><col width="900"></colgroup>
   <thead>
     <tr>
@@ -1128,7 +1128,7 @@ Sophistec의 AI 방향은 다음 원칙으로 관리되어야 합니다:
 
 ## API 버전 관리 및 사용 중단
 
-<p align="center"><img src="../assets/svg/api-version-lifecycle.svg?v=12" width="100%" alt="API 버전 라이프사이클"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/api-version-lifecycle.svg?v=12" width="100%" alt="API 버전 라이프사이클"></p>
 
 API의 발전에는 안정적인 계약, 문서화된 버전, 하위 호환성 기대사항, 마이그레이션 가이드, 사용 중단 공지, 정의된 종료 절차가 포함되어야 합니다.
 
@@ -1144,7 +1144,7 @@ API의 발전에는 안정적인 계약, 문서화된 버전, 하위 호환성 �
 
 ## 배포 모델
 
-<p align="center"><img src="../assets/svg/deployment-models.svg?v=12" width="100%" alt="배포 모델"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/deployment-models.svg?v=12" width="100%" alt="배포 모델"></p>
 
 제품 및 고객 요구사항에 따라 아키텍처는 다양한 배포 패턴을 지원할 수 있습니다:
 - **멀티테넌트 SaaS**
@@ -1158,18 +1158,18 @@ API의 발전에는 안정적인 계약, 문서화된 버전, 하위 호환성 �
 
 ## 릴리스, 유지보수 및 지원 라이프사이클
 
-<p align="center"><img src="../assets/svg/release-support-lifecycle.svg?v=12" width="100%" alt="릴리스 및 지원 라이프사이클"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/release-support-lifecycle.svg?v=12" width="100%" alt="릴리스 및 지원 라이프사이클"></p>
 
 성숙한 릴리스 프로세스는 개발을 테스트, 프리뷰 채널, 일반 제공, 프로덕션 관찰, 유지보수, 패치, 필요한 경우 장기 지원과 연결합니다.
 
 ## 통합 카탈로그
 
-<p align="center"><img src="../assets/svg/integration-catalog.svg?v=12" width="100%" alt="통합 카탈로그"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/integration-catalog.svg?v=12" width="100%" alt="통합 카탈로그"></p>
 
 Sophistec의 통합 생태계는 일회성 연결의 모음이 아니라 재사용 가능한 카탈로그로 구성할 수 있습니다:
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="264"><col width="936"></colgroup>
   <thead><tr><th width="264">도메인</th><th width="936">통합 역량 예시</th></tr></thead>
   <tbody>

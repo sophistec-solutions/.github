@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="../assets/logos/sophistec_global.png" width="720" alt="Sophistec Global logo">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/sophistec_global.png" width="720" alt="Sophistec Global logo">
 </p>
 
 <p align="center">
@@ -51,43 +51,43 @@ Kami membantu founder, organisasi, dan komunitas mengubah ide menjadi solusi pra
 
 | Logo | Brand | Fungsinya | Jelajahi |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global logo"> | **Sophistec Global** | Konsultasi masuk pasar Indonesia, pendirian perusahaan, Employer of Record (EOR), dukungan perekrutan lokal, fasilitasi investasi, dan ekspansi bisnis lintas negara. | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_dev_house_01.png" width="52" alt="Sophistec Dev House logo"> | **Sophistec Dev House** | Pengembangan perangkat lunak kustom, aplikasi mobile, integrasi API, AI, otomasi, cloud, data, UI/UX, dan tim teknologi. | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_academy_01.png" width="52" alt="Sophistec Academy logo"> | **Sophistec Academy** | Program pembelajaran, pelatihan eksekutif, edukasi founder, dan berbagi pengetahuan. | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_studio_01.png" width="52" alt="Sophistec Studio logo"> | **Sophistec Studio** | Teknologi kreatif, fotografi, videografi, dokumentasi acara, dan pengalaman brand. | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_growth_hub_01.png" width="52" alt="Sophistec Growth Hub logo"> | **Sophistec Growth Hub** | Pemasaran strategis, hubungan masyarakat, media sosial, pertumbuhan brand, dan keterlibatan komunitas. | <a href="https://growthhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_founder_scape_01.png" width="52" alt="Founder Scape logo"> | **Founder Scape** | Platform dan podcast yang membahas bisnis, inovasi, kepemimpinan, dan dampak. | <a href="https://founderscape.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_dd_walk_01.png" width="52" alt="DD Walk logo"> | **DD Walk** | Platform yang berfokus pada gaya hidup dan eksplorasi di bawah ekosistem Sophistec. | <a href="https://ddwalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_chill_mama_01.png" width="52" alt="Chill Mama logo"> | **Chill Mama** | Brand gaya hidup yang berfokus pada komunitas. | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global logo"> | **Sophistec Global** | Konsultasi masuk pasar Indonesia, pendirian perusahaan, Employer of Record (EOR), dukungan perekrutan lokal, fasilitasi investasi, dan ekspansi bisnis lintas negara. | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_dev_house_01.png" width="52" alt="Sophistec Dev House logo"> | **Sophistec Dev House** | Pengembangan perangkat lunak kustom, aplikasi mobile, integrasi API, AI, otomasi, cloud, data, UI/UX, dan tim teknologi. | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_academy_01.png" width="52" alt="Sophistec Academy logo"> | **Sophistec Academy** | Program pembelajaran, pelatihan eksekutif, edukasi founder, dan berbagi pengetahuan. | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_studio_01.png" width="52" alt="Sophistec Studio logo"> | **Sophistec Studio** | Teknologi kreatif, fotografi, videografi, dokumentasi acara, dan pengalaman brand. | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_growth_hub_01.png" width="52" alt="Sophistec Growth Hub logo"> | **Sophistec Growth Hub** | Pemasaran strategis, hubungan masyarakat, media sosial, pertumbuhan brand, dan keterlibatan komunitas. | <a href="https://growthhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_founder_scape_01.png" width="52" alt="Founder Scape logo"> | **Founder Scape** | Platform dan podcast yang membahas bisnis, inovasi, kepemimpinan, dan dampak. | <a href="https://founderscape.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_dd_walk_01.png" width="52" alt="DD Walk logo"> | **DD Walk** | Platform yang berfokus pada gaya hidup dan eksplorasi di bawah ekosistem Sophistec. | <a href="https://ddwalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_chill_mama_01.png" width="52" alt="Chill Mama logo"> | **Chill Mama** | Brand gaya hidup yang berfokus pada komunitas. | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
 
 ## Produk Digital Kami
 
 | Logo | Produk | Fokus | Jelajahi |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions logo"> | **Sophistec Optima Solutions** | Optimasi bisnis dan solusi digital untuk organisasi. | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Aivora logo"> | **Sophistec Aivora** | Platform agen AI untuk bantuan cerdas, orkestrasi alur kerja, dan otomasi bisnis. | <a href="https://aivora.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft logo"> | **Sophistec Data Craft** | Solusi berbasis data, analitik, dan kecerdasan digital. | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C logo"> | **Sophistec C4C** | Platform khusus dalam ekosistem Sophistec. | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel logo"> | **Sophistec Omnichannel** | Operasional perdagangan terpadu dengan integrasi marketplace, logistik, pembayaran, dan kanal penjualan. | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft logo"> | **Sophistec Market Craft** | Solusi pertumbuhan digital, pemasaran, dan kebutuhan yang berhadapan langsung dengan pasar. | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Vendix logo"> | **Sophistec Vendix** | Platform mesin penjual otomatis terhubung untuk inventaris, pembayaran, telemetri, dan pengelolaan operasional. | <a href="https://vendix.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack logo"> | **Sophistec Smart Rack** | Solusi operasional pintar dan pengelolaan rak. | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub logo"> | **Sophistec Service Hub** | Solusi dukungan dan manajemen layanan terpusat. | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore logo"> | **Sophistec Medicore** | Manajemen layanan kesehatan terhubung untuk rumah sakit, klinik, apotek, laboratorium, dan radiologi. | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon logo"> | **Sophistec Denticon** | Solusi digital untuk praktik kedokteran gigi dan operasional kesehatan mulut. | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust logo"> | **Sophistec Key Trust** | Identitas dan keamanan perangkat berbasis hardware menggunakan teknologi **Physical Unclonable Function (PUF)** dan autentikasi **FIDO2**, yang dirancang untuk mengamankan setiap identitas dari lapisan paling dasar. | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora logo"> | **Sophistec Lumora** | Platform photobooth modern untuk pengalaman foto di lokasi acara, roaming/mingle photography, frame acara ber-branding, berbagi instan, dan ucapan virtual. | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub logo"> | **Sophistec Career Hub** | Platform pengembangan karier dan talenta. | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_edu_pro_01.png" width="52" alt="Sophistec Edu Pro logo"> | **Sophistec Edu Pro** | Solusi pendidikan dan pembelajaran profesional. | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_edu_plus_01.png" width="52" alt="Sophistec Edu Plus logo"> | **Sophistec Edu Plus** | Solusi pendidikan dan pembelajaran yang mudah diakses untuk komunitas yang lebih luas. | <a href="https://eduplus.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions logo"> | **Sophistec Optima Solutions** | Optimasi bisnis dan solusi digital untuk organisasi. | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Aivora logo"> | **Sophistec Aivora** | Platform agen AI untuk bantuan cerdas, orkestrasi alur kerja, dan otomasi bisnis. | <a href="https://aivora.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft logo"> | **Sophistec Data Craft** | Solusi berbasis data, analitik, dan kecerdasan digital. | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C logo"> | **Sophistec C4C** | Platform khusus dalam ekosistem Sophistec. | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel logo"> | **Sophistec Omnichannel** | Operasional perdagangan terpadu dengan integrasi marketplace, logistik, pembayaran, dan kanal penjualan. | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft logo"> | **Sophistec Market Craft** | Solusi pertumbuhan digital, pemasaran, dan kebutuhan yang berhadapan langsung dengan pasar. | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Vendix logo"> | **Sophistec Vendix** | Platform mesin penjual otomatis terhubung untuk inventaris, pembayaran, telemetri, dan pengelolaan operasional. | <a href="https://vendix.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack logo"> | **Sophistec Smart Rack** | Solusi operasional pintar dan pengelolaan rak. | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub logo"> | **Sophistec Service Hub** | Solusi dukungan dan manajemen layanan terpusat. | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore logo"> | **Sophistec Medicore** | Manajemen layanan kesehatan terhubung untuk rumah sakit, klinik, apotek, laboratorium, dan radiologi. | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon logo"> | **Sophistec Denticon** | Solusi digital untuk praktik kedokteran gigi dan operasional kesehatan mulut. | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust logo"> | **Sophistec Key Trust** | Identitas dan keamanan perangkat berbasis hardware menggunakan teknologi **Physical Unclonable Function (PUF)** dan autentikasi **FIDO2**, yang dirancang untuk mengamankan setiap identitas dari lapisan paling dasar. | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora logo"> | **Sophistec Lumora** | Platform photobooth modern untuk pengalaman foto di lokasi acara, roaming/mingle photography, frame acara ber-branding, berbagi instan, dan ucapan virtual. | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub logo"> | **Sophistec Career Hub** | Platform pengembangan karier dan talenta. | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_edu_pro_01.png" width="52" alt="Sophistec Edu Pro logo"> | **Sophistec Edu Pro** | Solusi pendidikan dan pembelajaran profesional. | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_edu_plus_01.png" width="52" alt="Sophistec Edu Plus logo"> | **Sophistec Edu Plus** | Solusi pendidikan dan pembelajaran yang mudah diakses untuk komunitas yang lebih luas. | <a href="https://eduplus.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
 
 ## Komunitas
 
 | Logo | Komunitas | Tujuan | Jelajahi |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_wander_lens_01.png" width="52" alt="Sophistec Wander Lens logo"> | **Sophistec Wander Lens** | Komunitas bagi orang-orang yang menjelajah, mendokumentasikan, dan mengalami dunia melalui visual storytelling. | <a href="https://wanderlens.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_photo_walk_01.png" width="52" alt="Sophistec Photo Walk logo"> | **Sophistec Photo Walk** | Komunitas fotografi yang menciptakan peluang untuk belajar, terhubung, dan menjelajah bersama. | <a href="https://photowalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global logo"> | **NASA Space Apps Challenge Indonesia** | Komunitas inovasi global dan program lokal yang menghubungkan orang-orang yang menggunakan open data untuk menyelesaikan tantangan dunia nyata. | <a href="https://nasaspaceappsindonesia.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_wander_lens_01.png" width="52" alt="Sophistec Wander Lens logo"> | **Sophistec Wander Lens** | Komunitas bagi orang-orang yang menjelajah, mendokumentasikan, dan mengalami dunia melalui visual storytelling. | <a href="https://wanderlens.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_photo_walk_01.png" width="52" alt="Sophistec Photo Walk logo"> | **Sophistec Photo Walk** | Komunitas fotografi yang menciptakan peluang untuk belajar, terhubung, dan menjelajah bersama. | <a href="https://photowalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global logo"> | **NASA Space Apps Challenge Indonesia** | Komunitas inovasi global dan program lokal yang menghubungkan orang-orang yang menggunakan open data untuk menyelesaikan tantangan dunia nyata. | <a href="https://nasaspaceappsindonesia.sophistec.global/" target="_blank" rel="noopener noreferrer">Jelajahi</a> |
 
 ## Satu Ekosistem, Dukungan End-to-End
 
@@ -237,7 +237,7 @@ billing, akses produk, intelligence, integrasi, dan infrastruktur
 sekaligus memungkinkan setiap produk berkembang secara independen.
 
 <p align="center">
-<img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec connected platform architecture">
+<img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec connected platform architecture">
 </p>
 
 ### Peta Domain Engineering
@@ -257,7 +257,7 @@ AI diperlakukan sebagai lapisan intelligence yang terhubung dengan produk dan
 operasional bukan sekadar fitur chatbot.
 
 <p align="center">
-<img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Lapisan Intelligence Sophistec">
+<img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Lapisan Intelligence Sophistec">
 </p>
 LLM, agent, RAG, memory, tools, MCP, API, permission, dan business
 logic dapat bekerja bersama untuk mengambil konteks tepercaya dan mendukung
@@ -266,13 +266,13 @@ aksi dunia nyata yang terkontrol.
 ## Alur Engineering Animasi
 
 <p align="center">
-<img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="Sophistec animated engineering workflow">
+<img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-journey.svg?v=12" width="100%" alt="Sophistec animated engineering workflow">
 </p>
 
 ## Peta Kapabilitas Produk × Engineering
 
 <table width="1200" cellspacing="0" cellpadding="6">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <thead><tr><th width="336">Platform</th><th width="120">SaaS</th><th width="216">API / Integrasi</th><th width="144">AI / Data</th><th width="168">Automation</th><th width="216">Identitas / Access</th></tr></thead>
   <tbody>
     <tr><td><strong>Sophistec Optima Solutions</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
@@ -298,67 +298,67 @@ aksi dunia nyata yang terkontrol.
 
 ## Standar Engineering
 
-<p align="center"><img src="../assets/svg/engineering-standards-table.svg?v=1" width="100%" alt="Standar Engineering table covering Build, Operate, Protect, and Evolve"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-standards-table.svg?v=1" width="100%" alt="Standar Engineering table covering Build, Operate, Protect, and Evolve"></p>
 
 ## Sistem Visual Sophistec
 
 <p align="center">
-  <img src="../assets/svg/hero-technology-network.svg?v=12" width="100%" alt="Sophistec Technology Ecosystem">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/hero-technology-network.svg?v=12" width="100%" alt="Sophistec Technology Ecosystem">
 </p>
 
 ### Konstelasi Produk
-<p align="center"><img src="../assets/svg/product-constellation.svg?v=14" width="100%" alt="Sophistec Konstelasi Produk"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-constellation.svg?v=14" width="100%" alt="Sophistec Konstelasi Produk"></p>
 
 ### Kolaborasi Lintas Negara
-<p align="center"><img src="../assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec Kolaborasi Lintas Negara"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec Kolaborasi Lintas Negara"></p>
 
 ### Siklus Permintaan
-<p align="center"><img src="../assets/svg/request-lifecycle.svg?v=12" width="100%" alt="Request to Produkion Lifecycle"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/request-lifecycle.svg?v=12" width="100%" alt="Request to Produkion Lifecycle"></p>
 
 ### Eksekusi Agentic
-<p align="center"><img src="../assets/svg/agentic-execution-loop.svg?v=12" width="100%" alt="Eksekusi Agentic Loop"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/agentic-execution-loop.svg?v=12" width="100%" alt="Eksekusi Agentic Loop"></p>
 
 ### Data menjadi Intelligence
-<p align="center"><img src="../assets/svg/data-intelligence-lifecycle.svg?v=12" width="100%" alt="Data Intelligence Lifecycle"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/data-intelligence-lifecycle.svg?v=12" width="100%" alt="Data Intelligence Lifecycle"></p>
 
 ### Prinsip Engineering
-<p align="center"><img src="../assets/svg/engineering-principles.svg?v=12" width="100%" alt="Prinsip Engineering"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-principles.svg?v=12" width="100%" alt="Prinsip Engineering"></p>
 
 ### Sistem Kapabilitas
-<p align="center"><img src="../assets/svg/capability-system.svg?v=12" width="100%" alt="Engineering Sistem Kapabilitas"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/capability-system.svg?v=12" width="100%" alt="Engineering Sistem Kapabilitas"></p>
 
 ## Visual Engineering Premium
 
 Diagram-diagram ini merangkum pendekatan Sophistec terhadap product engineering sebagai sistem yang saling terhubung, bukan sekadar teknologi yang berdiri sendiri.
 
-<p align="center"><img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="Engineering Journey"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-journey.svg?v=12" width="100%" alt="Engineering Journey"></p>
 
 ### Platform Terhubung
-<p align="center"><img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Platform Terhubung Arsitektur"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Platform Terhubung Arsitektur"></p>
 
 ### Microservices & Sistem Terdistribusi
-<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="Microservices Arsitektur"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/microservices-architecture.svg?v=12" width="100%" alt="Microservices Arsitektur"></p>
 
 ### Intelligence AI-Native
-<p align="center"><img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="AI Intelligence Layer"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="AI Intelligence Layer"></p>
 
 ### RAG Enterprise
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="RAG Enterprise Pipeline"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/rag-pipeline.svg?v=12" width="100%" alt="RAG Enterprise Pipeline"></p>
 
 ### CI/CD & Delivery ke Produksi
-<p align="center"><img src="../assets/svg/cicd-pipeline.svg?v=12" width="100%" alt="CI CD Pipeline"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/cicd-pipeline.svg?v=12" width="100%" alt="CI CD Pipeline"></p>
 
 ### Integrasi Enterprise
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="Integrasi Ecosystem"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="Integrasi Ecosystem"></p>
 
 ### Identitas SaaS & Entitlement
-<p align="center"><img src="../assets/svg/saas-identity-flow.svg?v=12" width="100%" alt="SaaS Identitas Flow"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/saas-identity-flow.svg?v=12" width="100%" alt="SaaS Identitas Flow"></p>
 
 ### Observabilitas & Keandalan
-<p align="center"><img src="../assets/svg/observability-loop.svg?v=12" width="100%" alt="Observability Loop"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/observability-loop.svg?v=12" width="100%" alt="Observability Loop"></p>
 
 ### Keamanan by Design
-<p align="center"><img src="../assets/svg/security-by-design.svg?v=12" width="100%" alt="Keamanan by Design"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/security-by-design.svg?v=12" width="100%" alt="Keamanan by Design"></p>
 
 ## Kapabilitas Teknologi & Engineering
 
@@ -440,13 +440,13 @@ Kami mengeksplorasi dan membangun sistem berbasis AI yang mencakup:
 Aplikasi cerdas pada umumnya dapat menghubungkan model dengan
 knowledge privat dan tool operasional:
 
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge and operational tools"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge and operational tools"></p>
 
 ### RAG & Sistem Knowledge Enterprise
 
 Arsitektur berbasis RAG kami dapat mencakup:
 
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="RAG Enterprise pipeline from knowledge sources to grounded response and action"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/rag-pipeline.svg?v=12" width="100%" alt="RAG Enterprise pipeline from knowledge sources to grounded response and action"></p>
 
 Area utama mencakup pemrosesan dokumen, strategi chunking, metadata,
 embeddings, vector database, semantic retrieval, hybrid search,
@@ -520,7 +520,7 @@ kebutuhan operasional, termasuk:
 -   Eventual consistency bila sesuai
 -   Observability dan distributed tracing
 
-<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="Microservices architecture from clients through API gateway, domain services, events, workers, automation, and data processing"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/microservices-architecture.svg?v=12" width="100%" alt="Microservices architecture from clients through API gateway, domain services, events, workers, automation, and data processing"></p>
 
 ### Messaging, Queue & Event Processing
 
@@ -553,7 +553,7 @@ aplikasi individual:
 -   Arsitektur produk dan layanan yang scalable
 
 <p align="center">
-  <img src="../assets/svg/saas-organization-architecture.svg?v=14" width="100%" alt="SaaS organization architecture connecting users, identity, tenants, permissions, entitlements, billing, usage, audit and products">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/saas-organization-architecture.svg?v=14" width="100%" alt="SaaS organization architecture connecting users, identity, tenants, permissions, entitlements, billing, usage, audit and products">
 </p>
 
 ### Engineering Integrasi
@@ -575,7 +575,7 @@ Area integrasi dapat mencakup:
 -   Platform SaaS eksternal
 -   Sistem enterprise internal
 
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="Enterprise integration architecture connecting applications to internal services, external APIs, payments, marketplaces, logistics, government and healthcare systems, Provider AI, and third-party SaaS"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="Enterprise integration architecture connecting applications to internal services, external APIs, payments, marketplaces, logistics, government and healthcare systems, Provider AI, and third-party SaaS"></p>
 
 ### DevOps, Cloud, Container & Infrastruktur
 
@@ -662,7 +662,7 @@ kuota · kunci API · provisioning · jejak audit · akses akun multiproduk.
 ### Cakupan Engineering Tambahan
 
 <table width="1260">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
   <colgroup><col width="174"><col width="1086"></colgroup>
   <thead><tr><th width="174">Area</th><th width="1086">Teknologi / Kapabilitas</th></tr></thead>
   <tbody>
@@ -687,7 +687,7 @@ kuota · kunci API · provisioning · jejak audit · akses akun multiproduk.
 ## Area Fokus Engineering
 
 <table width="1260">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
   <colgroup><col width="330"><col width="930"></colgroup>
   <thead><tr><th width="330">Fokus</th><th width="930">Yang Kami Bangun</th></tr></thead>
   <tbody>
@@ -708,7 +708,7 @@ Pekerjaan teknologi Sophistec dirancang berdasarkan lifecycle lengkap
 sebuah produk digital:
 
 <p align="center">
-  <img src="../assets/svg/product-idea-to-production.svg?v=12" width="100%" alt="Dari Ide Produk ke Produksi lifecycle">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-idea-to-production.svg?v=12" width="100%" alt="Dari Ide Produk ke Produksi lifecycle">
 </p>
 
 Hal ini memungkinkan kami memandang teknologi bukan sebagai kode yang berdiri sendiri, tetapi sebagai
@@ -729,7 +729,7 @@ judgment, keamanan, reliability, serta pemahaman yang jelas mengenai orang
 dan organisasi yang dilayaninya.
 
 <p align="center">
-  <img src="../assets/svg/technology-philosophy-flow.svg?v=12" width="100%" alt="Human creativity, engineering judgment and AI flowing into better technology, practical value and real-world impact">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/technology-philosophy-flow.svg?v=12" width="100%" alt="Human creativity, engineering judgment and AI flowing into better technology, practical value and real-world impact">
 </p>
 
 Tujuan kami bukan sekadar menambahkan AI ke dalam perangkat lunak.
@@ -761,7 +761,7 @@ tanpa memperlakukan frontend, backend, infrastruktur, data, dan AI sebagai
 disiplin yang terpisah.
 
 <p align="center">
-  <img src="../assets/svg/interface-to-intelligence.svg?v=12" width="100%" alt="Six connected layers from user experience through applications, intelligence, data, cloud platform and integrations">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/interface-to-intelligence.svg?v=12" width="100%" alt="Six connected layers from user experience through applications, intelligence, data, cloud platform and integrations">
 </p>
 
 ---
@@ -786,7 +786,7 @@ disiplin yang terpisah.
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=800&color=6D28D9&center=true&vCenter=true&width=900&lines=User+%E2%86%92+Agent+%E2%86%92+Knowledge+%E2%86%92+Tools+%E2%86%92+Action;LLM+%2B+RAG+%2B+Memory+%2B+APIs+%2B+Business+Logic;From+AI+Chat+to+AI-Powered+Operations" alt="Sophistec AI-native architecture animation">
 </p>
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge, data, APIs, and business tools"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="Intelligent application architecture connecting an AI agent with private knowledge, data, APIs, and business tools"></p>
 
 Tujuannya adalah bergerak melampaui interface chat yang terisolasi menuju sistem AI
 yang dapat mengambil konteks tepercaya, menggunakan tool yang diizinkan, berinteraksi
@@ -797,7 +797,7 @@ dengan perangkat lunak, serta mendukung workflow operasional nyata.
 ## Lifecycle Delivery
 
 <p align="center">
-  <img src="../assets/svg/delivery-lifecycle.svg?v=15" width="100%" alt="Eight-stage delivery lifecycle from discovery through strategy, architecture, build, validation, deployment, observation and scale">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/delivery-lifecycle.svg?v=15" width="100%" alt="Eight-stage delivery lifecycle from discovery through strategy, architecture, build, validation, deployment, observation and scale">
 </p>
 
 **Temukan** masalah yang sebenarnya → **definisikan** arah produk dan teknis
@@ -865,29 +865,29 @@ desain yang jelas, lalu berakhir pada solusi yang dapat menciptakan nilai prakti
 Ketika sistem menjadi business-critical, kualitas engineering bergantung pada lebih dari sekadar implementasi. Sophistec juga mempertimbangkan bagaimana sistem diubah, dirilis, didukung, didokumentasikan, dan terus ditingkatkan.
 
 ### Lifecycle API & Developer Experience
-<p align="center"><img src="../assets/svg/api-lifecycle.svg?v=12" width="100%" alt="API Lifecycle"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/api-lifecycle.svg?v=12" width="100%" alt="API Lifecycle"></p>
 
 Desain contract-first · OpenAPI / Swagger · versioning · autentikasi dan error yang konsisten · contract testing · observability API · dokumentasi developer.
 
 ### Siklus Pembelajaran Produk
-<p align="center"><img src="../assets/svg/product-feedback-loop.svg?v=12" width="100%" alt="Siklus Pembelajaran Produk"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-feedback-loop.svg?v=12" width="100%" alt="Siklus Pembelajaran Produk"></p>
 
 Delivery engineering terhubung kembali pada pengguna dan hasil: memahami masalah, memvalidasi asumsi, melakukan release secara iteratif, mengamati penggunaan nyata, dan menggunakan evidence untuk mengarahkan peningkatan.
 
 ### Respons Insiden & Keandalan
-<p align="center"><img src="../assets/svg/incident-response-loop.svg?v=12" width="100%" alt="Incident Response Loop"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/incident-response-loop.svg?v=12" width="100%" alt="Incident Response Loop"></p>
 
 Kematangan produksi mencakup deteksi, triage, containment, diagnosis, recovery, review, dan peningkatan preventif.
 
 ### Tata Kelola Data & Lifecycle
-<p align="center"><img src="../assets/svg/data-governance-lifecycle.svg?v=12" width="100%" alt="Data Governance Lifecycle"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/data-governance-lifecycle.svg?v=12" width="100%" alt="Data Governance Lifecycle"></p>
 
 Arsitektur mempertimbangkan tujuan data, klasifikasi, batas akses, retensi, auditability, backup/recovery, pemrosesan yang memperhatikan privasi, dan pembuangan data secara aman.
 
 ## Dokumentasi sebagai Bagian dari Engineering
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="360"><col width="840"></colgroup>
   <thead>
     <tr>
@@ -949,12 +949,12 @@ Kredibilitas teknis seharusnya berasal dari evidence, bukan buzzword: produk yan
 Tahap berikutnya bagi engineering Sophistec adalah berkembang dari kumpulan produk dan teknologi menjadi **platform yang koheren, framework arsitektur, ekosistem developer, dan model operasional**. Bagian di bawah menjelaskan arah tersebut. Kapabilitas roadmap seperti SDK dan CLI tooling hanya boleh disebut tersedia secara umum setelah benar-benar diimplementasikan dan didukung.
 
 ### Framework Engineering Sophistec
-<p align="center"><img src="../assets/svg/engineering-framework.svg?v=12" width="100%" alt="Framework Engineering Sophistec"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-framework.svg?v=12" width="100%" alt="Framework Engineering Sophistec"></p>
 
 Framework kami menggunakan delapan pilar: **Nilai Produk, Arsitektur, Keamanan & Kepercayaan, Reliability, Performance, Keunggulan Operasional, Efisiensi Biaya, dan Keberlanjutan & Evolusi**.
 
 ### Platform Enterprise Sophistec
-<p align="center"><img src="../assets/svg/enterprise-platform.svg?v=12" width="100%" alt="Platform Enterprise Sophistec"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/enterprise-platform.svg?v=12" width="100%" alt="Platform Enterprise Sophistec"></p>
 
 ```text
 Platform Sophistec
@@ -970,47 +970,47 @@ Platform Sophistec
 Kapabilitas bersama mendukung domain produk sekaligus memungkinkan setiap produk berkembang secara independen.
 
 ### Framework Extension & Connector
-<p align="center"><img src="../assets/svg/extension-framework.svg?v=12" width="100%" alt="Extension Framework"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/extension-framework.svg?v=12" width="100%" alt="Extension Framework"></p>
 
 Model extension modular dapat memisahkan **product core, module, extension, connector, webhook, dan custom workflow**, sehingga kustomisasi enterprise menjadi lebih terkontrol dan mudah dipelihara.
 
 ### Platform Developer
-<p align="center"><img src="../assets/svg/developer-platform.svg?v=12" width="100%" alt="Developer Platform"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/developer-platform.svg?v=12" width="100%" alt="Developer Platform"></p>
 
 Arah developer platform mencakup **dokumentasi, referensi API, SDK, CLI tooling, sandbox environment, contoh, starter kit, changelog, informasi status, dan panduan integrasi**.
 
 ### Roadmap Developer Tooling
-<p align="center"><img src="../assets/svg/developer-tooling-roadmap.svg?v=12" width="100%" alt="Roadmap Developer Tooling"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/developer-tooling-roadmap.svg?v=12" width="100%" alt="Roadmap Developer Tooling"></p>
 
 Tooling yang berpotensi didukung mencakup SDK JavaScript, Python, Go, dan PHP serta Sophistec CLI. Semua ini merupakan **konsep roadmap**, bukan klaim bahwa saat ini sudah tersedia secara umum kecuali dipublikasikan secara terpisah.
 
 ## Keandalan, Kontinuitas & SRE
-<p align="center"><img src="../assets/svg/reliability-sre-model.svg?v=12" width="100%" alt="Reliability and SRE Model"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/reliability-sre-model.svg?v=12" width="100%" alt="Reliability and SRE Model"></p>
 
 Operasional enterprise mempertimbangkan **SLI, SLO, SLA, availability, latency, error rate, RTO, RPO, disaster recovery, verifikasi backup, failover, incident response, dan business continuity**.
 
 ## Engineering Biaya & Kapasitas
-<p align="center"><img src="../assets/svg/finops-lifecycle.svg?v=12" width="100%" alt="Cost and Capacity Engineering"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/finops-lifecycle.svg?v=12" width="100%" alt="Cost and Capacity Engineering"></p>
 
 Engineering berorientasi FinOps menghubungkan **traffic, usage metering, capacity planning, cost allocation, biaya per tenant/produk, right-sizing, forecasting, dan optimasi**.
 
 ## Engineering Berkelanjutan
-<p align="center"><img src="../assets/svg/sustainability-engineering.svg?v=12" width="100%" alt="Sustainable Engineering"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/sustainability-engineering.svg?v=12" width="100%" alt="Sustainable Engineering"></p>
 
 Keberlanjutan engineering mencakup efisiensi resource, right-sizing, penjadwalan workload, retensi data yang wajar, storage yang efisien, pengurangan compute yang tidak perlu, dan umur panjang arsitektur.
 
 ## Arsitektur Proses Bisnis
-<p align="center"><img src="../assets/svg/business-process-architecture.svg?v=12" width="100%" alt="Arsitektur Proses Bisnis"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/business-process-architecture.svg?v=12" width="100%" alt="Arsitektur Proses Bisnis"></p>
 
 Sophistec menghubungkan teknologi dengan proses bisnis di area **finance, operations, sales, customer service, healthcare, commerce, data, dan intelligent automation**.
 
 ## Peta Solusi Industri
-<p align="center"><img src="../assets/svg/industry-solutions.svg?v=12" width="100%" alt="Peta Solusi Industri"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/industry-solutions.svg?v=12" width="100%" alt="Peta Solusi Industri"></p>
 
 Konteks solusi saat ini dan yang berdekatan mencakup **healthcare, commerce & retail, professional services, education, enterprise operations, data & analytics, dan bisnis digital lintas negara**.
 
 ## Sophistec Arsitektur Center
-<p align="center"><img src="../assets/svg/architecture-center.svg?v=12" width="100%" alt="Sophistec Arsitektur Center"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/architecture-center.svg?v=12" width="100%" alt="Sophistec Arsitektur Center"></p>
 
 Arsitektur Center adalah model knowledge untuk mengorganisasi panduan engineering yang dapat digunakan kembali:
 
@@ -1033,14 +1033,14 @@ architecture/
 ```
 
 ## Framework Review Arsitektur
-<p align="center"><img src="../assets/svg/architecture-review.svg?v=12" width="100%" alt="Framework Review Arsitektur"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/architecture-review.svg?v=12" width="100%" alt="Framework Review Arsitektur"></p>
 
 Sistem besar dapat direview berdasarkan **nilai produk, arsitektur, scalability, keamanan, reliability, performa, observability, data, integrasi, kontrol AI, biaya, maintainability, disaster recovery, dan dokumentasi**. Keputusan penting sebaiknya dicatat melalui Arsitektur Decision Records (ADR).
 
 ## Checklist Arsitektur Enterprise
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="264"><col width="936"></colgroup>
   <thead>
     <tr>
@@ -1069,11 +1069,11 @@ Sistem besar dapat direview berdasarkan **nilai produk, arsitektur, scalability,
 
 Teknologi enterprise membutuhkan lebih dari sekadar banyak fitur. Trust model Sophistec menyatukan keamanan, privasi, reliability, governance, evidence compliance, dan transparansi.
 
-<p align="center"><img src="../assets/svg/enterprise-trust-model.svg?v=12" width="100%" alt="Enterprise Trust Model"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/enterprise-trust-model.svg?v=12" width="100%" alt="Enterprise Trust Model"></p>
 
 ### Arah Trust Center
 
-<p align="center"><img src="../assets/svg/trust-center-model.svg?v=12" width="100%" alt="Trust Center Information Model"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/trust-center-model.svg?v=12" width="100%" alt="Trust Center Information Model"></p>
 
 Sophistec Trust Center di masa depan dapat memusatkan informasi seperti:
 
@@ -1090,7 +1090,7 @@ Sophistec Trust Center di masa depan dapat memusatkan informasi seperti:
 
 ## Framework Responsible AI
 
-<p align="center"><img src="../assets/svg/responsible-ai-lifecycle.svg?v=12" width="100%" alt="Responsible AI Lifecycle"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/responsible-ai-lifecycle.svg?v=12" width="100%" alt="Responsible AI Lifecycle"></p>
 
 Arah AI Sophistec seharusnya diatur berdasarkan:
 
@@ -1107,10 +1107,10 @@ Arah AI Sophistec seharusnya diatur berdasarkan:
 
 ## Model Kematangan Produk
 
-<p align="center"><img src="../assets/svg/product-maturity-lifecycle.svg?v=12" width="100%" alt="Produk Maturity Lifecycle"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-maturity-lifecycle.svg?v=12" width="100%" alt="Produk Maturity Lifecycle"></p>
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="300"><col width="900"></colgroup>
   <thead>
     <tr>
@@ -1133,7 +1133,7 @@ Repository produk harus mengkomunikasikan tingkat kematangan dengan jelas, bukan
 
 ## Versioning & Deprecation API
 
-<p align="center"><img src="../assets/svg/api-version-lifecycle.svg?v=12" width="100%" alt="API Version Lifecycle"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/api-version-lifecycle.svg?v=12" width="100%" alt="API Version Lifecycle"></p>
 
 Evolusi API harus mencakup contract yang stabil, versi terdokumentasi, ekspektasi backward compatibility, panduan migrasi, pemberitahuan deprecation, dan proses sunset yang terdefinisi.
 
@@ -1149,7 +1149,7 @@ Prinsip yang direkomendasikan:
 
 ## Model Deployment
 
-<p align="center"><img src="../assets/svg/deployment-models.svg?v=12" width="100%" alt="Model Deployment"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/deployment-models.svg?v=12" width="100%" alt="Model Deployment"></p>
 
 Bergantung pada produk dan kebutuhan pelanggan, arsitektur dapat mendukung pola deployment yang berbeda:
 
@@ -1164,18 +1164,18 @@ Ketersediaan model deployment harus dinyatakan per produk, bukan diasumsikan ber
 
 ## Lifecycle Release, Maintenance & Support
 
-<p align="center"><img src="../assets/svg/release-support-lifecycle.svg?v=12" width="100%" alt="Release and Support Lifecycle"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/release-support-lifecycle.svg?v=12" width="100%" alt="Release and Support Lifecycle"></p>
 
 Proses release yang matang menghubungkan development dengan testing, preview channel, general availability, observasi produksi, maintenance, patching, dan bila sesuai long-term support.
 
 ## Katalog Integrasi
 
-<p align="center"><img src="../assets/svg/integration-catalog.svg?v=12" width="100%" alt="Katalog Integrasi"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/integration-catalog.svg?v=12" width="100%" alt="Katalog Integrasi"></p>
 
 Ekosistem integrasi Sophistec dapat diorganisasi sebagai katalog reusable, bukan sekadar kumpulan koneksi satu kali:
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="264"><col width="936"></colgroup>
   <thead><tr><th width="264">Domain</th><th width="936">Contoh Kapabilitas Integrasi</th></tr></thead>
   <tbody>

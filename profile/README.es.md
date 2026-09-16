@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="../assets/logos/sophistec_global.png" width="720" alt="Sophistec Global logo">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/sophistec_global.png" width="720" alt="Sophistec Global logo">
 </p>
 
 <p align="center">
@@ -51,43 +51,43 @@ Ayudamos a fundadores, organizaciones y comunidades a convertir ideas en solucio
 
 | Logo | Marca | Qué hace | Explorar |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Logo de Sophistec Global"> | **Sophistec Global** | Consultoría para la entrada al mercado de Indonesia, constitución de empresas, Employer of Record (EOR), apoyo a la contratación local, facilitación de inversiones y expansión empresarial transfronteriza. | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_dev_house_01.png" width="52" alt="Logo de Sophistec Dev House"> | **Sophistec Dev House** | Desarrollo de software a medida, aplicaciones móviles, integración de API, IA, automatización, nube, datos, UI/UX y equipos tecnológicos. | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_academy_01.png" width="52" alt="Logo de Sophistec Academy"> | **Sophistec Academy** | Aprendizaje, formación ejecutiva, educación para fundadores y programas de intercambio de conocimientos. | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_studio_01.png" width="52" alt="Logo de Sophistec Studio"> | **Sophistec Studio** | Tecnología creativa, fotografía, videografía, documentación de eventos y experiencias de marca. | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_growth_hub_01.png" width="52" alt="Logo de Sophistec Growth Hub"> | **Sophistec Growth Hub** | Marketing estratégico, relaciones públicas, redes sociales, crecimiento de marca y participación comunitaria. | <a href="https://growthhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_founder_scape_01.png" width="52" alt="Logo de Founder Scape"> | **Founder Scape** | Una plataforma y pódcast que explora negocios, innovación, liderazgo e impacto. | <a href="https://founderscape.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_dd_walk_01.png" width="52" alt="Logo de DD Walk"> | **DD Walk** | Una plataforma centrada en estilo de vida y descubrimiento dentro del ecosistema Sophistec. | <a href="https://ddwalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_chill_mama_01.png" width="52" alt="Logo de Chill Mama"> | **Chill Mama** | Una marca de estilo de vida centrada en la comunidad. | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Logo de Sophistec Global"> | **Sophistec Global** | Consultoría para la entrada al mercado de Indonesia, constitución de empresas, Employer of Record (EOR), apoyo a la contratación local, facilitación de inversiones y expansión empresarial transfronteriza. | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_dev_house_01.png" width="52" alt="Logo de Sophistec Dev House"> | **Sophistec Dev House** | Desarrollo de software a medida, aplicaciones móviles, integración de API, IA, automatización, nube, datos, UI/UX y equipos tecnológicos. | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_academy_01.png" width="52" alt="Logo de Sophistec Academy"> | **Sophistec Academy** | Aprendizaje, formación ejecutiva, educación para fundadores y programas de intercambio de conocimientos. | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_studio_01.png" width="52" alt="Logo de Sophistec Studio"> | **Sophistec Studio** | Tecnología creativa, fotografía, videografía, documentación de eventos y experiencias de marca. | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_growth_hub_01.png" width="52" alt="Logo de Sophistec Growth Hub"> | **Sophistec Growth Hub** | Marketing estratégico, relaciones públicas, redes sociales, crecimiento de marca y participación comunitaria. | <a href="https://growthhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_founder_scape_01.png" width="52" alt="Logo de Founder Scape"> | **Founder Scape** | Una plataforma y pódcast que explora negocios, innovación, liderazgo e impacto. | <a href="https://founderscape.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_dd_walk_01.png" width="52" alt="Logo de DD Walk"> | **DD Walk** | Una plataforma centrada en estilo de vida y descubrimiento dentro del ecosistema Sophistec. | <a href="https://ddwalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_chill_mama_01.png" width="52" alt="Logo de Chill Mama"> | **Chill Mama** | Una marca de estilo de vida centrada en la comunidad. | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">Explorar</a> |
 
 ## Nuestros productos digitales
 
 | Logo | Producto | Enfoque | Explorar |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_optima_solutions_01.png" width="52" alt="Logo de Sophistec Optima Solutions"> | **Sophistec Optima Solutions** | Optimización empresarial y soluciones digitales para organizaciones. | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Aivora logo"> | **Sophistec Aivora** | Plataforma de agentes de IA para asistencia inteligente, orquestación de flujos de trabajo y automatización empresarial. | <a href="https://aivora.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_data_craft_01.png" width="52" alt="Logo de Sophistec Data Craft"> | **Sophistec Data Craft** | Soluciones orientadas a datos, analítica e inteligencia digital. | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Logo de Sophistec C4C"> | **Sophistec C4C** | Una plataforma dedicada dentro del ecosistema Sophistec. | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_omnichannel_01.png" width="52" alt="Logo de Sophistec Omnichannel"> | **Sophistec Omnichannel** | Operaciones comerciales unificadas con integración de marketplaces, logística, pagos y canales de venta. | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Logo de Sophistec Market Craft"> | **Sophistec Market Craft** | Crecimiento digital, marketing y soluciones orientadas al mercado. | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Vendix logo"> | **Sophistec Vendix** | Plataforma de máquinas expendedoras conectadas para inventario, pagos, telemetría y gestión operativa. | <a href="https://vendix.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_smart_rack_01.png" width="52" alt="Logo de Sophistec Smart Rack"> | **Sophistec Smart Rack** | Soluciones inteligentes para operaciones y gestión de racks. | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_service_hub_01.png" width="52" alt="Logo de Sophistec Service Hub"> | **Sophistec Service Hub** | Soluciones centralizadas de soporte y gestión de servicios. | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Logo de Sophistec Medicore"> | **Sophistec Medicore** | Gestión sanitaria conectada para hospitales, clínicas, farmacias, laboratorios y radiología. | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Logo de Sophistec Denticon"> | **Sophistec Denticon** | Soluciones digitales para clínicas dentales y operaciones de salud bucodental. | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Logo de Sophistec Key Trust"> | **Sophistec Key Trust** | Identidad y seguridad de dispositivos con raíz en hardware mediante tecnología **Physical Unclonable Function (PUF)** y autenticación **FIDO2**, diseñadas para proteger cada identidad desde su raíz. | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Logo de Sophistec Lumora"> | **Sophistec Lumora** | Una plataforma moderna de fotomatón para experiencias fotográficas presenciales, fotografía itinerante o tipo mingle, marcos de eventos con marca, uso compartido instantáneo y saludos virtuales. | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_career_hub_01.png" width="52" alt="Logo de Sophistec Career Hub"> | **Sophistec Career Hub** | Plataforma para el desarrollo profesional y del talento. | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_edu_pro_01.png" width="52" alt="Logo de Sophistec Edu Pro"> | **Sophistec Edu Pro** | Soluciones de educación y aprendizaje profesional. | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_edu_plus_01.png" width="52" alt="Logo de Sophistec Edu Plus"> | **Sophistec Edu Plus** | Soluciones de educación y aprendizaje accesibles para comunidades más amplias. | <a href="https://eduplus.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_optima_solutions_01.png" width="52" alt="Logo de Sophistec Optima Solutions"> | **Sophistec Optima Solutions** | Optimización empresarial y soluciones digitales para organizaciones. | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Aivora logo"> | **Sophistec Aivora** | Plataforma de agentes de IA para asistencia inteligente, orquestación de flujos de trabajo y automatización empresarial. | <a href="https://aivora.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_data_craft_01.png" width="52" alt="Logo de Sophistec Data Craft"> | **Sophistec Data Craft** | Soluciones orientadas a datos, analítica e inteligencia digital. | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_c4c_01.png" width="52" alt="Logo de Sophistec C4C"> | **Sophistec C4C** | Una plataforma dedicada dentro del ecosistema Sophistec. | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_omnichannel_01.png" width="52" alt="Logo de Sophistec Omnichannel"> | **Sophistec Omnichannel** | Operaciones comerciales unificadas con integración de marketplaces, logística, pagos y canales de venta. | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_market_craft_01.png" width="52" alt="Logo de Sophistec Market Craft"> | **Sophistec Market Craft** | Crecimiento digital, marketing y soluciones orientadas al mercado. | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Vendix logo"> | **Sophistec Vendix** | Plataforma de máquinas expendedoras conectadas para inventario, pagos, telemetría y gestión operativa. | <a href="https://vendix.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_smart_rack_01.png" width="52" alt="Logo de Sophistec Smart Rack"> | **Sophistec Smart Rack** | Soluciones inteligentes para operaciones y gestión de racks. | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_service_hub_01.png" width="52" alt="Logo de Sophistec Service Hub"> | **Sophistec Service Hub** | Soluciones centralizadas de soporte y gestión de servicios. | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_medicore_01.png" width="52" alt="Logo de Sophistec Medicore"> | **Sophistec Medicore** | Gestión sanitaria conectada para hospitales, clínicas, farmacias, laboratorios y radiología. | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_denticon_01.png" width="52" alt="Logo de Sophistec Denticon"> | **Sophistec Denticon** | Soluciones digitales para clínicas dentales y operaciones de salud bucodental. | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Logo de Sophistec Key Trust"> | **Sophistec Key Trust** | Identidad y seguridad de dispositivos con raíz en hardware mediante tecnología **Physical Unclonable Function (PUF)** y autenticación **FIDO2**, diseñadas para proteger cada identidad desde su raíz. | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Logo de Sophistec Lumora"> | **Sophistec Lumora** | Una plataforma moderna de fotomatón para experiencias fotográficas presenciales, fotografía itinerante o tipo mingle, marcos de eventos con marca, uso compartido instantáneo y saludos virtuales. | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_career_hub_01.png" width="52" alt="Logo de Sophistec Career Hub"> | **Sophistec Career Hub** | Plataforma para el desarrollo profesional y del talento. | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_edu_pro_01.png" width="52" alt="Logo de Sophistec Edu Pro"> | **Sophistec Edu Pro** | Soluciones de educación y aprendizaje profesional. | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_edu_plus_01.png" width="52" alt="Logo de Sophistec Edu Plus"> | **Sophistec Edu Plus** | Soluciones de educación y aprendizaje accesibles para comunidades más amplias. | <a href="https://eduplus.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
 
 ## Comunidades
 
 | Logo | Comunidad | Propósito | Explorar |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_wander_lens_01.png" width="52" alt="Logo de Sophistec Wander Lens"> | **Sophistec Wander Lens** | Una comunidad para personas que exploran, documentan y viven el mundo mediante la narrativa visual. | <a href="https://wanderlens.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_photo_walk_01.png" width="52" alt="Logo de Sophistec Photo Walk"> | **Sophistec Photo Walk** | Una comunidad de fotografía que crea oportunidades para aprender, conectar y explorar juntos. | <a href="https://photowalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Logo de Sophistec Global"> | **NASA Space Apps Challenge Indonesia** | Una comunidad global de innovación y un programa local que conecta a personas que utilizan datos abiertos para resolver desafíos del mundo real. | <a href="https://nasaspaceappsindonesia.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_wander_lens_01.png" width="52" alt="Logo de Sophistec Wander Lens"> | **Sophistec Wander Lens** | Una comunidad para personas que exploran, documentan y viven el mundo mediante la narrativa visual. | <a href="https://wanderlens.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_photo_walk_01.png" width="52" alt="Logo de Sophistec Photo Walk"> | **Sophistec Photo Walk** | Una comunidad de fotografía que crea oportunidades para aprender, conectar y explorar juntos. | <a href="https://photowalk.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Logo de Sophistec Global"> | **NASA Space Apps Challenge Indonesia** | Una comunidad global de innovación y un programa local que conecta a personas que utilizan datos abiertos para resolver desafíos del mundo real. | <a href="https://nasaspaceappsindonesia.sophistec.global/" target="_blank" rel="noopener noreferrer">Explorar</a> |
 
 ## Un ecosistema, soporte de principio a fin
 
@@ -234,7 +234,7 @@ facturación, acceso a productos, inteligencia, integraciones e infraestructura,
 al mismo tiempo que permite que cada producto evolucione de manera independiente.
 
 <p align="center">
-<img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Arquitectura de plataforma conectada de Sophistec">
+<img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Arquitectura de plataforma conectada de Sophistec">
 </p>
 
 ### Mapa de dominios de ingeniería
@@ -254,7 +254,7 @@ La IA se trata como una capa de inteligencia conectada a productos y
 operaciones, no simplemente como una función de chatbot.
 
 <p align="center">
-<img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Capa de inteligencia de Sophistec">
+<img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Capa de inteligencia de Sophistec">
 </p>
 
 Los LLM, agentes, RAG, memoria, herramientas, MCP, API, permisos y lógica
@@ -264,13 +264,13 @@ respaldar acciones controladas en el mundo real.
 ## Flujo animado de ingeniería
 
 <p align="center">
-<img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="Flujo animado de ingeniería de Sophistec">
+<img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-journey.svg?v=12" width="100%" alt="Flujo animado de ingeniería de Sophistec">
 </p>
 
 ## Mapa de capacidades Producto × Ingeniería
 
 <table width="1200" cellspacing="0" cellpadding="6">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <thead><tr><th width="336">Plataforma</th><th width="120">SaaS</th><th width="216">API / Integración</th><th width="144">IA / Datos</th><th width="168">Automatización</th><th width="216">Identidad / Acceso</th></tr></thead>
   <tbody>
     <tr><td><strong>Sophistec Optima Solutions</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
@@ -296,67 +296,67 @@ respaldar acciones controladas en el mundo real.
 
 ## Estándares de ingeniería
 
-<p align="center"><img src="../assets/svg/engineering-standards-table.svg?v=1" width="100%" alt="Tabla de estándares de ingeniería que cubre Construir, Operar, Proteger y Evolucionar"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-standards-table.svg?v=1" width="100%" alt="Tabla de estándares de ingeniería que cubre Construir, Operar, Proteger y Evolucionar"></p>
 
 ## Sistema visual de Sophistec
 
 <p align="center">
-  <img src="../assets/svg/hero-technology-network.svg?v=12" width="100%" alt="Ecosistema tecnológico de Sophistec">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/hero-technology-network.svg?v=12" width="100%" alt="Ecosistema tecnológico de Sophistec">
 </p>
 
 ### Constelación de productos
-<p align="center"><img src="../assets/svg/product-constellation.svg?v=14" width="100%" alt="Constelación de productos de Sophistec"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-constellation.svg?v=14" width="100%" alt="Constelación de productos de Sophistec"></p>
 
 ### Colaboración transfronteriza
-<p align="center"><img src="../assets/svg/global-collaboration.svg?v=12" width="100%" alt="Colaboración transfronteriza de Sophistec"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/global-collaboration.svg?v=12" width="100%" alt="Colaboración transfronteriza de Sophistec"></p>
 
 ### Ciclo de vida de solicitudes
-<p align="center"><img src="../assets/svg/request-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida desde la solicitud hasta producción"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/request-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida desde la solicitud hasta producción"></p>
 
 ### Ejecución agéntica
-<p align="center"><img src="../assets/svg/agentic-execution-loop.svg?v=12" width="100%" alt="Bucle de ejecución agéntica"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/agentic-execution-loop.svg?v=12" width="100%" alt="Bucle de ejecución agéntica"></p>
 
 ### De datos a inteligencia
-<p align="center"><img src="../assets/svg/data-intelligence-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida de datos a inteligencia"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/data-intelligence-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida de datos a inteligencia"></p>
 
 ### Principios de ingeniería
-<p align="center"><img src="../assets/svg/engineering-principles.svg?v=12" width="100%" alt="Principios de ingeniería"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-principles.svg?v=12" width="100%" alt="Principios de ingeniería"></p>
 
 ### Sistema de capacidades
-<p align="center"><img src="../assets/svg/capability-system.svg?v=12" width="100%" alt="Sistema de capacidades de ingeniería"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/capability-system.svg?v=12" width="100%" alt="Sistema de capacidades de ingeniería"></p>
 
 ## Visuales premium de ingeniería
 
 Estos diagramas resumen cómo Sophistec aborda la ingeniería de productos como sistemas conectados en lugar de tecnologías aisladas.
 
-<p align="center"><img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="Recorrido de ingeniería"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-journey.svg?v=12" width="100%" alt="Recorrido de ingeniería"></p>
 
 ### Plataforma conectada
-<p align="center"><img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Arquitectura de plataforma conectada"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Arquitectura de plataforma conectada"></p>
 
 ### Microservicios y sistemas distribuidos
-<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="Arquitectura de microservicios"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/microservices-architecture.svg?v=12" width="100%" alt="Arquitectura de microservicios"></p>
 
 ### Inteligencia nativa de IA
-<p align="center"><img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Capa de inteligencia de IA"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Capa de inteligencia de IA"></p>
 
 ### RAG empresarial
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="Pipeline RAG empresarial"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/rag-pipeline.svg?v=12" width="100%" alt="Pipeline RAG empresarial"></p>
 
 ### CI/CD y entrega a producción
-<p align="center"><img src="../assets/svg/cicd-pipeline.svg?v=12" width="100%" alt="Pipeline de CI/CD"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/cicd-pipeline.svg?v=12" width="100%" alt="Pipeline de CI/CD"></p>
 
 ### Integración empresarial
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="Ecosistema de integración"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="Ecosistema de integración"></p>
 
 ### Identidad y derechos SaaS
-<p align="center"><img src="../assets/svg/saas-identity-flow.svg?v=12" width="100%" alt="Flujo de identidad SaaS"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/saas-identity-flow.svg?v=12" width="100%" alt="Flujo de identidad SaaS"></p>
 
 ### Observabilidad y confiabilidad
-<p align="center"><img src="../assets/svg/observability-loop.svg?v=12" width="100%" alt="Bucle de observabilidad"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/observability-loop.svg?v=12" width="100%" alt="Bucle de observabilidad"></p>
 
 ### Seguridad por diseño
-<p align="center"><img src="../assets/svg/security-by-design.svg?v=12" width="100%" alt="Seguridad por diseño"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/security-by-design.svg?v=12" width="100%" alt="Seguridad por diseño"></p>
 
 ## Capacidades de tecnología e ingeniería
 
@@ -436,13 +436,13 @@ Exploramos y construimos sistemas impulsados por IA en torno a:
 Una aplicación inteligente típica puede conectar modelos con conocimiento
 privado y herramientas operativas:
 
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="Arquitectura de aplicación inteligente que conecta un agente de IA con conocimiento privado y herramientas operativas"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="Arquitectura de aplicación inteligente que conecta un agente de IA con conocimiento privado y herramientas operativas"></p>
 
 ### RAG y sistemas de conocimiento empresarial
 
 Nuestra arquitectura orientada a RAG puede incluir:
 
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="Pipeline RAG empresarial desde fuentes de conocimiento hasta respuestas y acciones fundamentadas"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/rag-pipeline.svg?v=12" width="100%" alt="Pipeline RAG empresarial desde fuentes de conocimiento hasta respuestas y acciones fundamentadas"></p>
 
 Las áreas clave incluyen procesamiento de documentos, estrategias de chunking, metadatos,
 embeddings, bases de datos vectoriales, recuperación semántica, búsqueda híbrida,
@@ -520,7 +520,7 @@ operativos, incluyendo:
 -   Consistencia eventual cuando resulte apropiado
 -   Observabilidad y trazado distribuido
 
-<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="Arquitectura de microservicios desde clientes a través del gateway de API, servicios de dominio, eventos, workers, automatización y procesamiento de datos"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/microservices-architecture.svg?v=12" width="100%" alt="Arquitectura de microservicios desde clientes a través del gateway de API, servicios de dominio, eventos, workers, automatización y procesamiento de datos"></p>
 
 ### Mensajería, colas y procesamiento de eventos
 
@@ -554,7 +554,7 @@ individuales:
 -   Arquitectura escalable de productos y servicios
 
 <p align="center">
-  <img src="../assets/svg/saas-organization-architecture.svg?v=14" width="100%" alt="Arquitectura de organización SaaS que conecta usuarios, identidad, tenants, permisos, derechos, facturación, uso, auditoría y productos">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/saas-organization-architecture.svg?v=14" width="100%" alt="Arquitectura de organización SaaS que conecta usuarios, identidad, tenants, permisos, derechos, facturación, uso, auditoría y productos">
 </p>
 
 ### Ingeniería de integración
@@ -576,7 +576,7 @@ Las áreas de integración pueden incluir:
 -   Plataformas SaaS externas
 -   Sistemas empresariales internos
 
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="Arquitectura de integración empresarial que conecta aplicaciones con servicios internos, API externas, pagos, marketplaces, logística, sistemas gubernamentales y sanitarios, proveedores de IA y SaaS de terceros"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="Arquitectura de integración empresarial que conecta aplicaciones con servicios internos, API externas, pagos, marketplaces, logística, sistemas gubernamentales y sanitarios, proveedores de IA y SaaS de terceros"></p>
 
 ### DevOps, nube, contenedores e infraestructura
 
@@ -664,7 +664,7 @@ claves de API · aprovisionamiento · pistas de auditoría · acceso a cuentas m
 ### Cobertura adicional de ingeniería
 
 <table width="1260">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
   <colgroup><col width="174"><col width="1086"></colgroup>
   <thead><tr><th width="174">Área</th><th width="1086">Tecnologías / Capacidades</th></tr></thead>
   <tbody>
@@ -689,7 +689,7 @@ claves de API · aprovisionamiento · pistas de auditoría · acceso a cuentas m
 ## Áreas de enfoque de ingeniería
 
 <table width="1260">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
   <colgroup><col width="330"><col width="930"></colgroup>
   <thead><tr><th width="330">Enfoque</th><th width="930">Qué construimos</th></tr></thead>
   <tbody>
@@ -710,7 +710,7 @@ El trabajo tecnológico de Sophistec está diseñado alrededor del ciclo de vida
 de un producto digital:
 
 <p align="center">
-  <img src="../assets/svg/product-idea-to-production.svg?v=12" width="100%" alt="Ciclo de vida desde la idea de producto hasta producción">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-idea-to-production.svg?v=12" width="100%" alt="Ciclo de vida desde la idea de producto hasta producción">
 </p>
 
 Esto nos permite abordar la tecnología no como código aislado, sino como un sistema
@@ -731,7 +731,7 @@ de producto, seguridad, confiabilidad y una comprensión clara de las personas y
 organizaciones a las que sirve.
 
 <p align="center">
-  <img src="../assets/svg/technology-philosophy-flow.svg?v=12" width="100%" alt="Creatividad humana, criterio de ingeniería e IA fluyendo hacia una mejor tecnología, valor práctico e impacto en el mundo real">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/technology-philosophy-flow.svg?v=12" width="100%" alt="Creatividad humana, criterio de ingeniería e IA fluyendo hacia una mejor tecnología, valor práctico e impacto en el mundo real">
 </p>
 
 Nuestro objetivo no es simplemente añadir IA al software.
@@ -762,7 +762,7 @@ Sophistec está diseñado para trabajar a lo largo de todo el stack tecnológico
 de tratar frontend, backend, infraestructura, datos e IA como disciplinas aisladas.
 
 <p align="center">
-  <img src="../assets/svg/interface-to-intelligence.svg?v=12" width="100%" alt="Seis capas conectadas desde la experiencia del usuario hasta aplicaciones, inteligencia, datos, plataforma cloud e integraciones">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/interface-to-intelligence.svg?v=12" width="100%" alt="Seis capas conectadas desde la experiencia del usuario hasta aplicaciones, inteligencia, datos, plataforma cloud e integraciones">
 </p>
 
 ---
@@ -787,7 +787,7 @@ de tratar frontend, backend, infraestructura, datos e IA como disciplinas aislad
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=800&color=6D28D9&center=true&vCenter=true&width=900&lines=Usuario+%E2%86%92+Agente+%E2%86%92+Conocimiento+%E2%86%92+Herramientas+%E2%86%92+Acci%C3%B3n;LLM+%2B+RAG+%2B+Memoria+%2B+APIs+%2B+L%C3%B3gica+de+negocio;Del+chat+de+IA+a+operaciones+impulsadas+por+IA" alt="Animación de arquitectura nativa de IA de Sophistec">
 </p>
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="Arquitectura de aplicación inteligente que conecta un agente de IA con conocimiento privado, datos, API y herramientas empresariales"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="Arquitectura de aplicación inteligente que conecta un agente de IA con conocimiento privado, datos, API y herramientas empresariales"></p>
 
 El objetivo es ir más allá de interfaces de chat aisladas hacia sistemas de IA que
 puedan recuperar contexto confiable, utilizar herramientas permitidas, interactuar
@@ -798,7 +798,7 @@ con software y respaldar flujos operativos reales.
 ## Ciclo de vida de entrega
 
 <p align="center">
-  <img src="../assets/svg/delivery-lifecycle.svg?v=15" width="100%" alt="Ciclo de vida de entrega de ocho etapas desde descubrimiento hasta estrategia, arquitectura, construcción, validación, despliegue, observación y escalado">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/delivery-lifecycle.svg?v=15" width="100%" alt="Ciclo de vida de entrega de ocho etapas desde descubrimiento hasta estrategia, arquitectura, construcción, validación, despliegue, observación y escalado">
 </p>
 
 **Descubrir** el problema real → **definir** la dirección de producto y técnica →
@@ -865,25 +865,25 @@ depende de mucho más que la implementación. Sophistec también considera cómo
 publican, soportan, documentan y mejoran continuamente los sistemas.
 
 ### Ciclo de vida de API y experiencia del desarrollador
-<p align="center"><img src="../assets/svg/api-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida de API"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/api-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida de API"></p>
 
 Diseño contract-first · OpenAPI / Swagger · versionado · autenticación y errores consistentes · pruebas de contrato · observabilidad de API · documentación para desarrolladores.
 
 ### Ciclo de aprendizaje del producto
-<p align="center"><img src="../assets/svg/product-feedback-loop.svg?v=12" width="100%" alt="Ciclo de aprendizaje del producto"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-feedback-loop.svg?v=12" width="100%" alt="Ciclo de aprendizaje del producto"></p>
 
 La entrega de ingeniería vuelve a conectarse con los usuarios y resultados: comprender
 el problema, validar supuestos, publicar de forma iterativa, observar el uso real y
 utilizar evidencia para orientar la mejora.
 
 ### Respuesta a incidentes y confiabilidad
-<p align="center"><img src="../assets/svg/incident-response-loop.svg?v=12" width="100%" alt="Ciclo de respuesta a incidentes"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/incident-response-loop.svg?v=12" width="100%" alt="Ciclo de respuesta a incidentes"></p>
 
 La madurez en producción incluye detección, triaje, contención, diagnóstico, recuperación,
 revisión y mejora preventiva.
 
 ### Gobernanza y ciclo de vida de datos
-<p align="center"><img src="../assets/svg/data-governance-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida de gobernanza de datos"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/data-governance-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida de gobernanza de datos"></p>
 
 La arquitectura considera propósito de los datos, clasificación, límites de acceso,
 retención, auditabilidad, copia de seguridad/recuperación, procesamiento consciente de la
@@ -892,7 +892,7 @@ privacidad y eliminación segura.
 ## Documentación como ingeniería
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="360"><col width="840"></colgroup>
   <thead>
     <tr>
@@ -964,12 +964,12 @@ esa dirección. Las capacidades del roadmap, como SDK y herramientas CLI, solo d
 como disponibles de forma general una vez implementadas y respaldadas.
 
 ### Framework de ingeniería de Sophistec
-<p align="center"><img src="../assets/svg/engineering-framework.svg?v=12" width="100%" alt="Framework de ingeniería de Sophistec"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-framework.svg?v=12" width="100%" alt="Framework de ingeniería de Sophistec"></p>
 
 Nuestro framework utiliza ocho pilares: **Valor del producto, Arquitectura, Seguridad y confianza, Confiabilidad, Rendimiento, Excelencia operativa, Eficiencia de costos y Sostenibilidad y evolución**.
 
 ### Plataforma empresarial de Sophistec
-<p align="center"><img src="../assets/svg/enterprise-platform.svg?v=12" width="100%" alt="Plataforma empresarial de Sophistec"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/enterprise-platform.svg?v=12" width="100%" alt="Plataforma empresarial de Sophistec"></p>
 
 ```text
 Plataforma Sophistec
@@ -986,61 +986,61 @@ Las capacidades compartidas respaldan los dominios de producto mientras permiten
 productos evolucionen de forma independiente.
 
 ### Framework de extensiones y conectores
-<p align="center"><img src="../assets/svg/extension-framework.svg?v=12" width="100%" alt="Framework de extensiones"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/extension-framework.svg?v=12" width="100%" alt="Framework de extensiones"></p>
 
 Un modelo modular de extensiones puede separar **núcleo del producto, módulos, extensiones,
 conectores, webhooks y flujos personalizados**, haciendo que la personalización empresarial
 sea más controlada y mantenible.
 
 ### Plataforma para desarrolladores
-<p align="center"><img src="../assets/svg/developer-platform.svg?v=12" width="100%" alt="Plataforma para desarrolladores"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/developer-platform.svg?v=12" width="100%" alt="Plataforma para desarrolladores"></p>
 
 La dirección de la plataforma para desarrolladores incluye **documentación, referencia de API,
 SDK, herramientas CLI, entornos sandbox, ejemplos, starter kits, changelogs, información de
 estado y guías de integración**.
 
 ### Roadmap de herramientas para desarrolladores
-<p align="center"><img src="../assets/svg/developer-tooling-roadmap.svg?v=12" width="100%" alt="Roadmap de herramientas para desarrolladores"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/developer-tooling-roadmap.svg?v=12" width="100%" alt="Roadmap de herramientas para desarrolladores"></p>
 
 Las herramientas potencialmente compatibles incluyen SDK para JavaScript, Python, Go y PHP,
 además de una CLI de Sophistec. Estos son **conceptos de roadmap**, no afirmaciones de
 disponibilidad general actual salvo que se publiquen por separado.
 
 ## Confiabilidad, continuidad y SRE
-<p align="center"><img src="../assets/svg/reliability-sre-model.svg?v=12" width="100%" alt="Modelo de confiabilidad y SRE"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/reliability-sre-model.svg?v=12" width="100%" alt="Modelo de confiabilidad y SRE"></p>
 
 Las operaciones empresariales consideran **SLI, SLO, SLA, disponibilidad, latencia, tasas de error,
 RTO, RPO, recuperación ante desastres, verificación de copias de seguridad, failover, respuesta a
 incidentes y continuidad del negocio**.
 
 ## Ingeniería de costos y capacidad
-<p align="center"><img src="../assets/svg/finops-lifecycle.svg?v=12" width="100%" alt="Ingeniería de costos y capacidad"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/finops-lifecycle.svg?v=12" width="100%" alt="Ingeniería de costos y capacidad"></p>
 
 La ingeniería orientada a FinOps conecta **tráfico, medición de uso, planificación de capacidad,
 asignación de costos, costo por tenant/producto, right-sizing, previsión y optimización**.
 
 ## Ingeniería sostenible
-<p align="center"><img src="../assets/svg/sustainability-engineering.svg?v=12" width="100%" alt="Ingeniería sostenible"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/sustainability-engineering.svg?v=12" width="100%" alt="Ingeniería sostenible"></p>
 
 La sostenibilidad de ingeniería incluye eficiencia de recursos, right-sizing, programación de
 cargas de trabajo, retención sensata de datos, almacenamiento eficiente, reducción de cómputo
 innecesario y longevidad de la arquitectura.
 
 ## Arquitectura de procesos empresariales
-<p align="center"><img src="../assets/svg/business-process-architecture.svg?v=12" width="100%" alt="Arquitectura de procesos empresariales"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/business-process-architecture.svg?v=12" width="100%" alt="Arquitectura de procesos empresariales"></p>
 
 Sophistec conecta la tecnología con procesos empresariales de **finanzas, operaciones, ventas,
 servicio al cliente, salud, comercio, datos y automatización inteligente**.
 
 ## Mapa de soluciones por industria
-<p align="center"><img src="../assets/svg/industry-solutions.svg?v=12" width="100%" alt="Mapa de soluciones por industria"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/industry-solutions.svg?v=12" width="100%" alt="Mapa de soluciones por industria"></p>
 
 Los contextos actuales y adyacentes de solución incluyen **salud, comercio y retail, servicios
 profesionales, educación, operaciones empresariales, datos y analítica, y negocios digitales
 transfronterizos**.
 
 ## Centro de arquitectura de Sophistec
-<p align="center"><img src="../assets/svg/architecture-center.svg?v=12" width="100%" alt="Centro de arquitectura de Sophistec"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/architecture-center.svg?v=12" width="100%" alt="Centro de arquitectura de Sophistec"></p>
 
 El Centro de Arquitectura es un modelo de conocimiento para organizar orientación de ingeniería reutilizable:
 
@@ -1063,7 +1063,7 @@ architecture/
 ```
 
 ## Framework de revisión de arquitectura
-<p align="center"><img src="../assets/svg/architecture-review.svg?v=12" width="100%" alt="Framework de revisión de arquitectura"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/architecture-review.svg?v=12" width="100%" alt="Framework de revisión de arquitectura"></p>
 
 Los sistemas principales pueden revisarse en función de **valor del producto, arquitectura,
 escalabilidad, seguridad, confiabilidad, rendimiento, observabilidad, datos, integración,
@@ -1073,7 +1073,7 @@ decisiones importantes deben registrarse mediante Architecture Decision Records 
 ## Checklist de arquitectura empresarial
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="264"><col width="936"></colgroup>
   <thead>
     <tr>
@@ -1103,11 +1103,11 @@ La tecnología empresarial exige más que amplitud de funciones. El modelo de co
 Sophistec reúne seguridad, privacidad, confiabilidad, gobernanza, evidencia de cumplimiento y
 transparencia.
 
-<p align="center"><img src="../assets/svg/enterprise-trust-model.svg?v=12" width="100%" alt="Modelo de confianza empresarial"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/enterprise-trust-model.svg?v=12" width="100%" alt="Modelo de confianza empresarial"></p>
 
 ### Dirección del Centro de Confianza
 
-<p align="center"><img src="../assets/svg/trust-center-model.svg?v=12" width="100%" alt="Modelo de información del Centro de Confianza"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/trust-center-model.svg?v=12" width="100%" alt="Modelo de información del Centro de Confianza"></p>
 
 Un futuro Centro de Confianza de Sophistec puede centralizar información como:
 
@@ -1124,7 +1124,7 @@ Un futuro Centro de Confianza de Sophistec puede centralizar información como:
 
 ## Framework de IA responsable
 
-<p align="center"><img src="../assets/svg/responsible-ai-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida de IA responsable"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/responsible-ai-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida de IA responsable"></p>
 
 La dirección de IA de Sophistec debe regirse por:
 
@@ -1141,10 +1141,10 @@ La dirección de IA de Sophistec debe regirse por:
 
 ## Modelo de madurez del producto
 
-<p align="center"><img src="../assets/svg/product-maturity-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida de madurez del producto"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-maturity-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida de madurez del producto"></p>
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="300"><col width="900"></colgroup>
   <thead>
     <tr>
@@ -1168,7 +1168,7 @@ todos los proyectos parezcan igualmente preparados para producción.
 
 ## Versionado y deprecación de API
 
-<p align="center"><img src="../assets/svg/api-version-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida de versiones de API"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/api-version-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida de versiones de API"></p>
 
 La evolución de API debe incluir contratos estables, versiones documentadas, expectativas de
 compatibilidad hacia atrás, guías de migración, avisos de deprecación y un proceso de retiro definido.
@@ -1185,7 +1185,7 @@ Principios recomendados:
 
 ## Modelos de despliegue
 
-<p align="center"><img src="../assets/svg/deployment-models.svg?v=12" width="100%" alt="Modelos de despliegue"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/deployment-models.svg?v=12" width="100%" alt="Modelos de despliegue"></p>
 
 Dependiendo del producto y de los requisitos del cliente, la arquitectura puede admitir diferentes patrones de despliegue:
 
@@ -1200,7 +1200,7 @@ La disponibilidad de un modelo de despliegue debe indicarse por producto en luga
 
 ## Ciclo de vida de release, mantenimiento y soporte
 
-<p align="center"><img src="../assets/svg/release-support-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida de release y soporte"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/release-support-lifecycle.svg?v=12" width="100%" alt="Ciclo de vida de release y soporte"></p>
 
 Un proceso maduro de releases conecta el desarrollo con pruebas, canales de preview,
 disponibilidad general, observación en producción, mantenimiento, parches y, cuando resulte
@@ -1208,13 +1208,13 @@ apropiado, soporte a largo plazo.
 
 ## Catálogo de integraciones
 
-<p align="center"><img src="../assets/svg/integration-catalog.svg?v=12" width="100%" alt="Catálogo de integraciones"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/integration-catalog.svg?v=12" width="100%" alt="Catálogo de integraciones"></p>
 
 El ecosistema de integraciones de Sophistec puede organizarse como un catálogo reutilizable
 en lugar de una colección de conexiones aisladas:
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="264"><col width="936"></colgroup>
   <thead><tr><th width="264">Dominio</th><th width="936">Ejemplos de capacidad de integración</th></tr></thead>
   <tbody>

@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="../assets/logos/sophistec_global.png" width="720" alt="Sophistec Global logo">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/sophistec_global.png" width="720" alt="Sophistec Global logo">
 </p>
 
 <p align="center">
@@ -51,43 +51,43 @@
 
 | Logo | 品牌 | 主要業務 | 探索 |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global logo"> | **Sophistec Global** | 印尼市場進入顧問、公司設立、Employer of Record（EOR）、在地招募支援、投資促進，以及跨境商務拓展。 | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_dev_house_01.png" width="52" alt="Sophistec Dev House logo"> | **Sophistec Dev House** | 客製化軟體開發、行動應用程式、API 整合、AI、自動化、雲端、資料、UI/UX 與技術團隊支援。 | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_academy_01.png" width="52" alt="Sophistec Academy logo"> | **Sophistec Academy** | 學習、主管培訓、創辦人教育與知識分享計畫。 | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_studio_01.png" width="52" alt="Sophistec Studio logo"> | **Sophistec Studio** | 創意科技、攝影、錄影、活動紀錄與品牌體驗。 | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_growth_hub_01.png" width="52" alt="Sophistec Growth Hub logo"> | **Sophistec Growth Hub** | 策略行銷、公關、社群媒體、品牌成長與社群互動。 | <a href="https://growthhub.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_founder_scape_01.png" width="52" alt="Founder Scape logo"> | **Founder Scape** | 探討商業、創新、領導力與影響力的平台與 Podcast。 | <a href="https://founderscape.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_dd_walk_01.png" width="52" alt="DD Walk logo"> | **DD Walk** | Sophistec 生態系旗下，以生活風格與探索為核心的平台。 | <a href="https://ddwalk.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_chill_mama_01.png" width="52" alt="Chill Mama logo"> | **Chill Mama** | 以社群為核心的生活風格品牌。 | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global logo"> | **Sophistec Global** | 印尼市場進入顧問、公司設立、Employer of Record（EOR）、在地招募支援、投資促進，以及跨境商務拓展。 | <a href="https://sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_dev_house_01.png" width="52" alt="Sophistec Dev House logo"> | **Sophistec Dev House** | 客製化軟體開發、行動應用程式、API 整合、AI、自動化、雲端、資料、UI/UX 與技術團隊支援。 | <a href="https://devhouse.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_academy_01.png" width="52" alt="Sophistec Academy logo"> | **Sophistec Academy** | 學習、主管培訓、創辦人教育與知識分享計畫。 | <a href="https://academy.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_studio_01.png" width="52" alt="Sophistec Studio logo"> | **Sophistec Studio** | 創意科技、攝影、錄影、活動紀錄與品牌體驗。 | <a href="https://studio.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_growth_hub_01.png" width="52" alt="Sophistec Growth Hub logo"> | **Sophistec Growth Hub** | 策略行銷、公關、社群媒體、品牌成長與社群互動。 | <a href="https://growthhub.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_founder_scape_01.png" width="52" alt="Founder Scape logo"> | **Founder Scape** | 探討商業、創新、領導力與影響力的平台與 Podcast。 | <a href="https://founderscape.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_dd_walk_01.png" width="52" alt="DD Walk logo"> | **DD Walk** | Sophistec 生態系旗下，以生活風格與探索為核心的平台。 | <a href="https://ddwalk.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_chill_mama_01.png" width="52" alt="Chill Mama logo"> | **Chill Mama** | 以社群為核心的生活風格品牌。 | <a href="https://chillmama.ca/" target="_blank" rel="noopener noreferrer">探索</a> |
 
 ## 我們的數位產品
 
 | Logo | 產品 | 核心定位 | 探索 |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions logo"> | **Sophistec Optima Solutions** | 為組織提供企業最佳化與數位解決方案。 | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Aivora logo"> | **Sophistec Aivora** | 用於智慧協助、工作流程協調與企業自動化的 AI 代理平台。 | <a href="https://aivora.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft logo"> | **Sophistec Data Craft** | 以資料為核心的解決方案、分析與數位智慧。 | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C logo"> | **Sophistec C4C** | Sophistec 生態系中的專屬平台。 | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel logo"> | **Sophistec Omnichannel** | 整合 Marketplace、物流、支付與銷售通路的全通路商務營運。 | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft logo"> | **Sophistec Market Craft** | 數位成長、行銷與面向市場的解決方案。 | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Vendix logo"> | **Sophistec Vendix** | 用於庫存、付款、遙測與營運管理的聯網自動販賣機平台。 | <a href="https://vendix.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack logo"> | **Sophistec Smart Rack** | 智慧營運與機架管理解決方案。 | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub logo"> | **Sophistec Service Hub** | 集中式支援與服務管理解決方案。 | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore logo"> | **Sophistec Medicore** | 為醫院、診所、藥局、實驗室與放射科提供互聯式醫療管理。 | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon logo"> | **Sophistec Denticon** | 為牙科診所與口腔健康營運提供數位解決方案。 | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust logo"> | **Sophistec Key Trust** | 採用 **Physical Unclonable Function（PUF）** 技術與 **FIDO2** 身分驗證，提供以硬體為信任根基的裝置身分與安全能力，從源頭保護每一個身分。 | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora logo"> | **Sophistec Lumora** | 現代化 Photobooth 平台，支援現場拍照體驗、移動／互動式攝影、品牌活動相框、即時分享與虛擬祝福。 | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub logo"> | **Sophistec Career Hub** | 職涯與人才發展平台。 | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_edu_pro_01.png" width="52" alt="Sophistec Edu Pro logo"> | **Sophistec Edu Pro** | 專業教育與學習解決方案。 | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_edu_plus_01.png" width="52" alt="Sophistec Edu Plus logo"> | **Sophistec Edu Plus** | 面向更廣泛社群的可近用教育與學習解決方案。 | <a href="https://eduplus.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_optima_solutions_01.png" width="52" alt="Sophistec Optima Solutions logo"> | **Sophistec Optima Solutions** | 為組織提供企業最佳化與數位解決方案。 | <a href="https://optimasolutions.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Aivora logo"> | **Sophistec Aivora** | 用於智慧協助、工作流程協調與企業自動化的 AI 代理平台。 | <a href="https://aivora.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_data_craft_01.png" width="52" alt="Sophistec Data Craft logo"> | **Sophistec Data Craft** | 以資料為核心的解決方案、分析與數位智慧。 | <a href="https://datacraft.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_c4c_01.png" width="52" alt="Sophistec C4C logo"> | **Sophistec C4C** | Sophistec 生態系中的專屬平台。 | <a href="https://c4c.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_omnichannel_01.png" width="52" alt="Sophistec Omnichannel logo"> | **Sophistec Omnichannel** | 整合 Marketplace、物流、支付與銷售通路的全通路商務營運。 | <a href="https://omnichannel.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_market_craft_01.png" width="52" alt="Sophistec Market Craft logo"> | **Sophistec Market Craft** | 數位成長、行銷與面向市場的解決方案。 | <a href="https://marketcraft.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Vendix logo"> | **Sophistec Vendix** | 用於庫存、付款、遙測與營運管理的聯網自動販賣機平台。 | <a href="https://vendix.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_smart_rack_01.png" width="52" alt="Sophistec Smart Rack logo"> | **Sophistec Smart Rack** | 智慧營運與機架管理解決方案。 | <a href="https://smartrack.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_service_hub_01.png" width="52" alt="Sophistec Service Hub logo"> | **Sophistec Service Hub** | 集中式支援與服務管理解決方案。 | <a href="https://servicehub.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_medicore_01.png" width="52" alt="Sophistec Medicore logo"> | **Sophistec Medicore** | 為醫院、診所、藥局、實驗室與放射科提供互聯式醫療管理。 | <a href="https://medicore.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_denticon_01.png" width="52" alt="Sophistec Denticon logo"> | **Sophistec Denticon** | 為牙科診所與口腔健康營運提供數位解決方案。 | <a href="https://denticon.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Key Trust logo"> | **Sophistec Key Trust** | 採用 **Physical Unclonable Function（PUF）** 技術與 **FIDO2** 身分驗證，提供以硬體為信任根基的裝置身分與安全能力，從源頭保護每一個身分。 | <a href="https://keytrust.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Lumora logo"> | **Sophistec Lumora** | 現代化 Photobooth 平台，支援現場拍照體驗、移動／互動式攝影、品牌活動相框、即時分享與虛擬祝福。 | <a href="https://lumora.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_career_hub_01.png" width="52" alt="Sophistec Career Hub logo"> | **Sophistec Career Hub** | 職涯與人才發展平台。 | <a href="https://careerhub.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_edu_pro_01.png" width="52" alt="Sophistec Edu Pro logo"> | **Sophistec Edu Pro** | 專業教育與學習解決方案。 | <a href="https://edupro.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_edu_plus_01.png" width="52" alt="Sophistec Edu Plus logo"> | **Sophistec Edu Plus** | 面向更廣泛社群的可近用教育與學習解決方案。 | <a href="https://eduplus.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
 
 ## 社群
 
 | Logo | 社群 | 目的 | 探索 |
 | :---: | --- | --- | --- |
-| <img src="../assets/logos/main_wander_lens_01.png" width="52" alt="Sophistec Wander Lens logo"> | **Sophistec Wander Lens** | 為透過視覺敘事探索、記錄與體驗世界的人們所打造的社群。 | <a href="https://wanderlens.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_photo_walk_01.png" width="52" alt="Sophistec Photo Walk logo"> | **Sophistec Photo Walk** | 一個創造共同學習、交流與探索機會的攝影社群。 | <a href="https://photowalk.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
-| <img src="../assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global logo"> | **NASA Space Apps Challenge Indonesia** | 全球創新社群與在地計畫，串聯使用開放資料解決真實世界挑戰的人們。 | <a href="https://nasaspaceappsindonesia.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_wander_lens_01.png" width="52" alt="Sophistec Wander Lens logo"> | **Sophistec Wander Lens** | 為透過視覺敘事探索、記錄與體驗世界的人們所打造的社群。 | <a href="https://wanderlens.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_photo_walk_01.png" width="52" alt="Sophistec Photo Walk logo"> | **Sophistec Photo Walk** | 一個創造共同學習、交流與探索機會的攝影社群。 | <a href="https://photowalk.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
+| <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/logos/main_sophistec_global_01.png" width="52" alt="Sophistec Global logo"> | **NASA Space Apps Challenge Indonesia** | 全球創新社群與在地計畫，串聯使用開放資料解決真實世界挑戰的人們。 | <a href="https://nasaspaceappsindonesia.sophistec.global/" target="_blank" rel="noopener noreferrer">探索</a> |
 
 ## 一個生態系，端到端支援
 
@@ -218,7 +218,7 @@ Sophistec 的平台方向串聯身分、組織、帳務、產品存取、智慧�
 同時讓各個產品能夠獨立演進。
 
 <p align="center">
-<img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec 互聯平台架構">
+<img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="Sophistec 互聯平台架構">
 </p>
 
 ### 工程領域地圖
@@ -238,7 +238,7 @@ AI 被視為與產品及營運相連的智慧層，
 而不僅僅是一項聊天機器人功能。
 
 <p align="center">
-<img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Sophistec 智慧層">
+<img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="Sophistec 智慧層">
 </p>
 LLM、Agent、RAG、記憶、工具、MCP、API、權限與商業邏輯可以協同運作，
 擷取可信任的脈絡，並支援受控的真實世界操作。
@@ -246,13 +246,13 @@ LLM、Agent、RAG、記憶、工具、MCP、API、權限與商業邏輯可以協
 ## 動態工程工作流程
 
 <p align="center">
-<img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="Sophistec 動態工程工作流程">
+<img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-journey.svg?v=12" width="100%" alt="Sophistec 動態工程工作流程">
 </p>
 
 ## 產品 × 工程能力地圖
 
 <table width="1200" cellspacing="0" cellpadding="6">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <thead><tr><th width="336">平台</th><th width="120">SaaS</th><th width="216">API / 整合</th><th width="144">AI / 資料</th><th width="168">自動化</th><th width="216">身分 / 存取</th></tr></thead>
   <tbody>
     <tr><td><strong>Sophistec Optima Solutions</strong></td><td align="center">●</td><td align="center">●</td><td align="center">◐</td><td align="center">●</td><td align="center">●</td></tr>
@@ -278,67 +278,67 @@ LLM、Agent、RAG、記憶、工具、MCP、API、權限與商業邏輯可以協
 
 ## 工程標準
 
-<p align="center"><img src="../assets/svg/engineering-standards-table.svg?v=1" width="100%" alt="涵蓋建置、營運、防護與演進的工程標準表"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-standards-table.svg?v=1" width="100%" alt="涵蓋建置、營運、防護與演進的工程標準表"></p>
 
 ## Sophistec 視覺系統
 
 <p align="center">
-  <img src="../assets/svg/hero-technology-network.svg?v=12" width="100%" alt="Sophistec 科技生態系">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/hero-technology-network.svg?v=12" width="100%" alt="Sophistec 科技生態系">
 </p>
 
 ### 產品星系
-<p align="center"><img src="../assets/svg/product-constellation.svg?v=14" width="100%" alt="Sophistec 產品星系"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-constellation.svg?v=14" width="100%" alt="Sophistec 產品星系"></p>
 
 ### 跨境協作
-<p align="center"><img src="../assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec 跨境協作"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/global-collaboration.svg?v=12" width="100%" alt="Sophistec 跨境協作"></p>
 
 ### 請求生命週期
-<p align="center"><img src="../assets/svg/request-lifecycle.svg?v=12" width="100%" alt="從請求到正式環境的生命週期"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/request-lifecycle.svg?v=12" width="100%" alt="從請求到正式環境的生命週期"></p>
 
 ### Agentic 執行
-<p align="center"><img src="../assets/svg/agentic-execution-loop.svg?v=12" width="100%" alt="Agentic 執行迴圈"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/agentic-execution-loop.svg?v=12" width="100%" alt="Agentic 執行迴圈"></p>
 
 ### 從資料到智慧
-<p align="center"><img src="../assets/svg/data-intelligence-lifecycle.svg?v=12" width="100%" alt="資料智慧生命週期"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/data-intelligence-lifecycle.svg?v=12" width="100%" alt="資料智慧生命週期"></p>
 
 ### 工程原則
-<p align="center"><img src="../assets/svg/engineering-principles.svg?v=12" width="100%" alt="工程原則"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-principles.svg?v=12" width="100%" alt="工程原則"></p>
 
 ### 能力系統
-<p align="center"><img src="../assets/svg/capability-system.svg?v=12" width="100%" alt="工程能力系統"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/capability-system.svg?v=12" width="100%" alt="工程能力系統"></p>
 
 ## 進階工程視覺化
 
 這些圖表總結了 Sophistec 如何將產品工程視為互聯系統，而不是彼此孤立的技術。
 
-<p align="center"><img src="../assets/svg/engineering-journey.svg?v=12" width="100%" alt="工程旅程"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-journey.svg?v=12" width="100%" alt="工程旅程"></p>
 
 ### 互聯平台
-<p align="center"><img src="../assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="互聯平台架構"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/platform-ecosystem.svg?v=12" width="100%" alt="互聯平台架構"></p>
 
 ### 微服務與分散式系統
-<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="微服務架構"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/microservices-architecture.svg?v=12" width="100%" alt="微服務架構"></p>
 
 ### AI 原生智慧
-<p align="center"><img src="../assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="AI 智慧層"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/ai-intelligence-layer.svg?v=12" width="100%" alt="AI 智慧層"></p>
 
 ### 企業級 RAG
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="企業級 RAG Pipeline"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/rag-pipeline.svg?v=12" width="100%" alt="企業級 RAG Pipeline"></p>
 
 ### CI/CD 與正式環境交付
-<p align="center"><img src="../assets/svg/cicd-pipeline.svg?v=12" width="100%" alt="CI/CD Pipeline"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/cicd-pipeline.svg?v=12" width="100%" alt="CI/CD Pipeline"></p>
 
 ### 企業整合
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="整合生態系"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="整合生態系"></p>
 
 ### SaaS 身分與權益
-<p align="center"><img src="../assets/svg/saas-identity-flow.svg?v=12" width="100%" alt="SaaS 身分流程"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/saas-identity-flow.svg?v=12" width="100%" alt="SaaS 身分流程"></p>
 
 ### 可觀測性與可靠性
-<p align="center"><img src="../assets/svg/observability-loop.svg?v=12" width="100%" alt="可觀測性迴圈"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/observability-loop.svg?v=12" width="100%" alt="可觀測性迴圈"></p>
 
 ### 安全內建設計
-<p align="center"><img src="../assets/svg/security-by-design.svg?v=12" width="100%" alt="安全內建設計"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/security-by-design.svg?v=12" width="100%" alt="安全內建設計"></p>
 
 ## 技術與工程能力
 
@@ -415,13 +415,13 @@ Sophistec 結合產品思維、軟體工程、人工智慧、資料、基礎架�
 
 典型的智慧應用可以將模型與私有知識及營運工具連結：
 
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="將 AI Agent 與私有知識及營運工具連結的智慧應用架構"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="將 AI Agent 與私有知識及營運工具連結的智慧應用架構"></p>
 
 ### RAG 與企業知識系統
 
 我們的 RAG 導向架構可包含：
 
-<p align="center"><img src="../assets/svg/rag-pipeline.svg?v=12" width="100%" alt="從知識來源到具可信依據回應與行動的企業級 RAG Pipeline"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/rag-pipeline.svg?v=12" width="100%" alt="從知識來源到具可信依據回應與行動的企業級 RAG Pipeline"></p>
 
 重點領域包括文件處理、Chunking 策略、Metadata、Embeddings、向量資料庫、語意檢索、混合搜尋、Re-ranking、Context 建構、Grounded Generation、引用與企業知識整合。
 
@@ -484,7 +484,7 @@ Sophistec 會依產品規模與營運需求設計架構，包括：
 -   適用情境下的最終一致性
 -   可觀測性與分散式追蹤
 
-<p align="center"><img src="../assets/svg/microservices-architecture.svg?v=12" width="100%" alt="從 Client 經由 API Gateway、Domain Service、事件、Worker、自動化到資料處理的微服務架構"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/microservices-architecture.svg?v=12" width="100%" alt="從 Client 經由 API Gateway、Domain Service、事件、Worker、自動化到資料處理的微服務架構"></p>
 
 ### 訊息、Queue 與事件處理
 
@@ -514,7 +514,7 @@ Message Queue · Publish/Subscribe · Background Worker · 非同步 Job · Even
 -   可擴展的產品與服務架構
 
 <p align="center">
-  <img src="../assets/svg/saas-organization-architecture.svg?v=14" width="100%" alt="連結使用者、身分、租戶、權限、權益、帳務、使用量、稽核與產品的 SaaS 組織架構">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/saas-organization-architecture.svg?v=14" width="100%" alt="連結使用者、身分、租戶、權限、權益、帳務、使用量、稽核與產品的 SaaS 組織架構">
 </p>
 
 ### 整合工程
@@ -536,7 +536,7 @@ Sophistec 打造可與更廣泛數位生態系連接的軟體。
 -   外部 SaaS 平台
 -   企業內部系統
 
-<p align="center"><img src="../assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="將應用程式連結至內部服務、外部 API、支付、Marketplace、物流、政府與醫療系統、AI 供應商及第三方 SaaS 的企業整合架構"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/integration-ecosystem.svg?v=12" width="100%" alt="將應用程式連結至內部服務、外部 API、支付、Marketplace、物流、政府與醫療系統、AI 供應商及第三方 SaaS 的企業整合架構"></p>
 
 ### DevOps、雲端、容器與基礎架構
 
@@ -606,7 +606,7 @@ Unit Testing · Integration Testing · API Testing · End-to-End Testing · Regr
 ### 其他工程涵蓋範圍
 
 <table width="1260">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
   <colgroup><col width="174"><col width="1086"></colgroup>
   <thead><tr><th width="174">領域</th><th width="1086">技術 / 能力</th></tr></thead>
   <tbody>
@@ -631,7 +631,7 @@ Unit Testing · Integration Testing · API Testing · End-to-End Testing · Regr
 ## 工程重點領域
 
 <table width="1260">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1260" height="1" alt=""></caption>
   <colgroup><col width="330"><col width="930"></colgroup>
   <thead><tr><th width="330">重點</th><th width="930">我們打造什麼</th></tr></thead>
   <tbody>
@@ -651,7 +651,7 @@ Unit Testing · Integration Testing · API Testing · End-to-End Testing · Regr
 Sophistec 的技術工作圍繞數位產品的完整生命週期而設計：
 
 <p align="center">
-  <img src="../assets/svg/product-idea-to-production.svg?v=12" width="100%" alt="從產品構想到正式環境的生命週期">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-idea-to-production.svg?v=12" width="100%" alt="從產品構想到正式環境的生命週期">
 </p>
 
 這讓我們能將技術視為彼此連結的產品、營運與商業系統，而不是孤立的程式碼。
@@ -667,7 +667,7 @@ AI 可以加速開發、自動化重複工作、改善知識取得方式，並�
 但真正具有價值的技術，仍仰賴審慎的架構、產品判斷、安全性、可靠性，以及對其所服務的人與組織有清楚理解。
 
 <p align="center">
-  <img src="../assets/svg/technology-philosophy-flow.svg?v=12" width="100%" alt="人類創意、工程判斷與 AI 共同導向更好的技術、實際價值與真實世界影響">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/technology-philosophy-flow.svg?v=12" width="100%" alt="人類創意、工程判斷與 AI 共同導向更好的技術、實際價值與真實世界影響">
 </p>
 
 我們的目標不只是把 AI 加進軟體。
@@ -696,7 +696,7 @@ Sophistec 的設計涵蓋完整技術棧，
 而不是將前端、後端、基礎架構、資料與 AI 視為彼此孤立的領域。
 
 <p align="center">
-  <img src="../assets/svg/interface-to-intelligence.svg?v=12" width="100%" alt="從使用者體驗、應用、智慧、資料、雲端平台到整合的六個互聯層">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/interface-to-intelligence.svg?v=12" width="100%" alt="從使用者體驗、應用、智慧、資料、雲端平台到整合的六個互聯層">
 </p>
 
 ---
@@ -721,7 +721,7 @@ Sophistec 的設計涵蓋完整技術棧，
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&pause=800&color=6D28D9&center=true&vCenter=true&width=900&lines=%E4%BD%BF%E7%94%A8%E8%80%85+%E2%86%92+Agent+%E2%86%92+%E7%9F%A5%E8%AD%98+%E2%86%92+%E5%B7%A5%E5%85%B7+%E2%86%92+%E8%A1%8C%E5%8B%95;LLM+%2B+RAG+%2B+%E8%A8%98%E6%86%B6+%2B+API+%2B+%E5%95%86%E6%A5%AD%E9%82%8F%E8%BC%AF;%E5%BE%9E+AI+%E5%B0%8D%E8%A9%B1%E5%88%B0+AI+%E9%A9%85%E5%8B%95%E7%87%9F%E9%81%8B" alt="Sophistec AI 原生架構動畫">
 </p>
-<p align="center"><img src="../assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="將 AI Agent 與私有知識、資料、API 及商業工具連結的智慧應用架構"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/intelligent-application-architecture.svg?v=13" width="100%" alt="將 AI Agent 與私有知識、資料、API 及商業工具連結的智慧應用架構"></p>
 
 目標是超越孤立的聊天介面，打造能擷取可信脈絡、使用被允許的工具、與軟體互動，並支援真實營運工作流程的 AI 系統。
 
@@ -730,7 +730,7 @@ Sophistec 的設計涵蓋完整技術棧，
 ## 交付生命週期
 
 <p align="center">
-  <img src="../assets/svg/delivery-lifecycle.svg?v=15" width="100%" alt="從探索、策略、架構、建置、驗證、部署、觀測到擴展的八階段交付生命週期">
+  <img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/delivery-lifecycle.svg?v=15" width="100%" alt="從探索、策略、架構、建置、驗證、部署、觀測到擴展的八階段交付生命週期">
 </p>
 
 **探索**真正的問題 → **定義**產品與技術方向 → **設計**系統架構 → 以迭代方式**建置** →
@@ -785,29 +785,29 @@ Sophistec 的設計涵蓋完整技術棧，
 當系統逐漸成為企業關鍵基礎時，工程品質就不只取決於實作本身。Sophistec 也重視系統如何被變更、發布、支援、記錄，以及如何持續改善。
 
 ### API 生命週期與開發者體驗
-<p align="center"><img src="../assets/svg/api-lifecycle.svg?v=12" width="100%" alt="API 生命週期"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/api-lifecycle.svg?v=12" width="100%" alt="API 生命週期"></p>
 
 Contract-first 設計 · OpenAPI / Swagger · 版本管理 · 一致的身分驗證與錯誤處理 · Contract Testing · API 可觀測性 · 開發者文件。
 
 ### 產品學習迴圈
-<p align="center"><img src="../assets/svg/product-feedback-loop.svg?v=12" width="100%" alt="產品學習迴圈"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-feedback-loop.svg?v=12" width="100%" alt="產品學習迴圈"></p>
 
 工程交付會重新連結到使用者與成果：理解問題、驗證假設、迭代發布、觀察真實使用情況，並以證據引導改善。
 
 ### 事件回應與可靠性
-<p align="center"><img src="../assets/svg/incident-response-loop.svg?v=12" width="100%" alt="事件回應迴圈"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/incident-response-loop.svg?v=12" width="100%" alt="事件回應迴圈"></p>
 
 正式環境成熟度包含偵測、分級處理、隔離、診斷、復原、檢討與預防性改善。
 
 ### 資料治理與生命週期
-<p align="center"><img src="../assets/svg/data-governance-lifecycle.svg?v=12" width="100%" alt="資料治理生命週期"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/data-governance-lifecycle.svg?v=12" width="100%" alt="資料治理生命週期"></p>
 
 架構需考量資料目的、分類、存取邊界、保留政策、可稽核性、備份／復原、重視隱私的處理方式與安全刪除。
 
 ## 將文件視為工程的一部分
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="360"><col width="840"></colgroup>
   <thead>
     <tr>
@@ -869,12 +869,12 @@ repository/
 Sophistec 工程的下一階段，是從一組產品與技術集合，演進為一套**一致的平台、架構框架、開發者生態系與營運模型**。以下章節說明這個方向。像 SDK 與 CLI 工具等 Roadmap 能力，只有在完成實作並提供支援後，才應被描述為普遍可用。
 
 ### Sophistec 工程框架
-<p align="center"><img src="../assets/svg/engineering-framework.svg?v=12" width="100%" alt="Sophistec 工程框架"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/engineering-framework.svg?v=12" width="100%" alt="Sophistec 工程框架"></p>
 
 我們的框架包含八大支柱：**產品價值、架構、安全與信任、可靠性、效能、營運卓越、成本效率，以及永續與演進**。
 
 ### Sophistec 企業平台
-<p align="center"><img src="../assets/svg/enterprise-platform.svg?v=12" width="100%" alt="Sophistec 企業平台"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/enterprise-platform.svg?v=12" width="100%" alt="Sophistec 企業平台"></p>
 
 ```text
 Sophistec Platform
@@ -890,47 +890,47 @@ Sophistec Platform
 共用能力支援各產品領域，同時讓產品可以獨立演進。
 
 ### Extension 與 Connector 框架
-<p align="center"><img src="../assets/svg/extension-framework.svg?v=12" width="100%" alt="Extension Framework"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/extension-framework.svg?v=12" width="100%" alt="Extension Framework"></p>
 
 模組化 Extension 模型可以區分**產品核心、模組、Extension、Connector、Webhook 與客製工作流程**，使企業客製化更受控、更容易維護。
 
 ### 開發者平台
-<p align="center"><img src="../assets/svg/developer-platform.svg?v=12" width="100%" alt="開發者平台"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/developer-platform.svg?v=12" width="100%" alt="開發者平台"></p>
 
 開發者平台方向包含**文件、API Reference、SDK、CLI 工具、Sandbox 環境、範例、Starter Kit、Changelog、狀態資訊與整合指南**。
 
 ### 開發者工具 Roadmap
-<p align="center"><img src="../assets/svg/developer-tooling-roadmap.svg?v=12" width="100%" alt="開發者工具 Roadmap"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/developer-tooling-roadmap.svg?v=12" width="100%" alt="開發者工具 Roadmap"></p>
 
 潛在支援工具包括 JavaScript、Python、Go 與 PHP SDK，以及 Sophistec CLI。這些屬於**Roadmap 概念**，除非另行正式發布，否則不代表目前已普遍提供。
 
 ## 可靠性、持續營運與 SRE
-<p align="center"><img src="../assets/svg/reliability-sre-model.svg?v=12" width="100%" alt="可靠性與 SRE 模型"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/reliability-sre-model.svg?v=12" width="100%" alt="可靠性與 SRE 模型"></p>
 
 企業營運會考量 **SLI、SLO、SLA、可用性、延遲、錯誤率、RTO、RPO、災難復原、備份驗證、Failover、事件回應與營運持續性**。
 
 ## 成本與容量工程
-<p align="center"><img src="../assets/svg/finops-lifecycle.svg?v=12" width="100%" alt="成本與容量工程"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/finops-lifecycle.svg?v=12" width="100%" alt="成本與容量工程"></p>
 
 FinOps 導向的工程會串聯**流量、使用量計量、容量規劃、成本分攤、每租戶／產品成本、Right-sizing、預測與最佳化**。
 
 ## 永續工程
-<p align="center"><img src="../assets/svg/sustainability-engineering.svg?v=12" width="100%" alt="永續工程"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/sustainability-engineering.svg?v=12" width="100%" alt="永續工程"></p>
 
 工程永續性包括資源效率、Right-sizing、工作負載排程、合理的資料保留、有效率的儲存、減少不必要的運算，以及延長架構壽命。
 
 ## 商業流程架構
-<p align="center"><img src="../assets/svg/business-process-architecture.svg?v=12" width="100%" alt="商業流程架構"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/business-process-architecture.svg?v=12" width="100%" alt="商業流程架構"></p>
 
 Sophistec 將技術與**財務、營運、銷售、客戶服務、醫療、商務、資料與智慧自動化**等商業流程串聯。
 
 ## 產業解決方案地圖
-<p align="center"><img src="../assets/svg/industry-solutions.svg?v=12" width="100%" alt="產業解決方案地圖"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/industry-solutions.svg?v=12" width="100%" alt="產業解決方案地圖"></p>
 
 目前及相鄰的解決方案情境包括**醫療、商務與零售、專業服務、教育、企業營運、資料與分析，以及跨境數位商務**。
 
 ## Sophistec 架構中心
-<p align="center"><img src="../assets/svg/architecture-center.svg?v=12" width="100%" alt="Sophistec 架構中心"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/architecture-center.svg?v=12" width="100%" alt="Sophistec 架構中心"></p>
 
 架構中心是一套用來整理可重複使用工程指引的知識模型：
 
@@ -953,14 +953,14 @@ architecture/
 ```
 
 ## 架構審查框架
-<p align="center"><img src="../assets/svg/architecture-review.svg?v=12" width="100%" alt="架構審查框架"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/architecture-review.svg?v=12" width="100%" alt="架構審查框架"></p>
 
 大型系統可以依據**產品價值、架構、可擴展性、安全性、可靠性、效能、可觀測性、資料、整合、AI 控制、成本、可維護性、災難復原與文件**進行審查。重要決策應透過 Architecture Decision Records（ADR）記錄。
 
 ## 企業架構檢查清單
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="264"><col width="936"></colgroup>
   <thead>
     <tr>
@@ -989,11 +989,11 @@ architecture/
 
 企業技術不只需要廣泛的功能。Sophistec 的信任模型整合安全性、隱私、可靠性、治理、合規證據與透明度。
 
-<p align="center"><img src="../assets/svg/enterprise-trust-model.svg?v=12" width="100%" alt="企業信任模型"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/enterprise-trust-model.svg?v=12" width="100%" alt="企業信任模型"></p>
 
 ### Trust Center 發展方向
 
-<p align="center"><img src="../assets/svg/trust-center-model.svg?v=12" width="100%" alt="Trust Center 資訊模型"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/trust-center-model.svg?v=12" width="100%" alt="Trust Center 資訊模型"></p>
 
 未來的 Sophistec Trust Center 可集中管理例如以下資訊：
 
@@ -1010,7 +1010,7 @@ architecture/
 
 ## 負責任 AI 框架
 
-<p align="center"><img src="../assets/svg/responsible-ai-lifecycle.svg?v=12" width="100%" alt="負責任 AI 生命週期"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/responsible-ai-lifecycle.svg?v=12" width="100%" alt="負責任 AI 生命週期"></p>
 
 Sophistec 的 AI 發展方向應遵循以下原則：
 
@@ -1027,10 +1027,10 @@ Sophistec 的 AI 發展方向應遵循以下原則：
 
 ## 產品成熟度模型
 
-<p align="center"><img src="../assets/svg/product-maturity-lifecycle.svg?v=12" width="100%" alt="產品成熟度生命週期"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/product-maturity-lifecycle.svg?v=12" width="100%" alt="產品成熟度生命週期"></p>
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="300"><col width="900"></colgroup>
   <thead>
     <tr>
@@ -1053,7 +1053,7 @@ Sophistec 的 AI 發展方向應遵循以下原則：
 
 ## API 版本管理與棄用
 
-<p align="center"><img src="../assets/svg/api-version-lifecycle.svg?v=12" width="100%" alt="API 版本生命週期"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/api-version-lifecycle.svg?v=12" width="100%" alt="API 版本生命週期"></p>
 
 API 的演進應包含穩定 Contract、文件化版本、向下相容預期、Migration 指引、Deprecation Notice 與明確的 Sunset Process。
 
@@ -1069,7 +1069,7 @@ API 的演進應包含穩定 Contract、文件化版本、向下相容預期、M
 
 ## 部署模式
 
-<p align="center"><img src="../assets/svg/deployment-models.svg?v=12" width="100%" alt="部署模式"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/deployment-models.svg?v=12" width="100%" alt="部署模式"></p>
 
 依產品與客戶需求不同，架構可支援不同部署模式：
 - **多租戶 SaaS**
@@ -1083,18 +1083,18 @@ API 的演進應包含穩定 Contract、文件化版本、向下相容預期、M
 
 ## 發布、維護與支援生命週期
 
-<p align="center"><img src="../assets/svg/release-support-lifecycle.svg?v=12" width="100%" alt="發布與支援生命週期"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/release-support-lifecycle.svg?v=12" width="100%" alt="發布與支援生命週期"></p>
 
 成熟的發布流程會將開發與測試、Preview Channel、General Availability、正式環境觀測、維護、修補，以及適用情況下的長期支援串聯起來。
 
 ## 整合目錄
 
-<p align="center"><img src="../assets/svg/integration-catalog.svg?v=12" width="100%" alt="整合目錄"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/integration-catalog.svg?v=12" width="100%" alt="整合目錄"></p>
 
 Sophistec 的整合生態系可以被整理成可重複使用的目錄，而不是一組一次性的連線：
 
 <table width="1200">
-  <caption><img src="../assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
+  <caption><img src="https://raw.githubusercontent.com/sophistec-solutions/.github/main/assets/svg/table-width-spacer.svg?v=12" width="1200" height="1" alt=""></caption>
   <colgroup><col width="264"><col width="936"></colgroup>
   <thead><tr><th width="264">領域</th><th width="936">整合能力範例</th></tr></thead>
   <tbody>
